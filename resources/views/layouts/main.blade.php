@@ -22,12 +22,44 @@
     <link rel="stylesheet" href="{{ asset('assets/css/vendor/bootstrap.min.css') }}">
     <!-- main css -->
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+    <style>
+        .floating-buttons {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    z-index: 99999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.floating-buttons a img {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease-in-out;
+}
+
+.floating-buttons a img:hover {
+    transform: scale(1.1);
+}
+
+    </style>
 </head>
 <body class="index-electrical">
     <x-header />
 
 @yield('content')
+<div class="floating-buttons">
+    <a href="https://wa.me/923001234567" target="_blank" class="float-whatsapp">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
+    </a>
 
+    <a href="tel:+923001234567" class="float-call">
+        <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Call">
+    </a>
+</div>
 <x-footer />
 <div class="search-input-area">
         <div class="container">
@@ -102,4 +134,4 @@
     <!-- header style two End -->
 </body>
 
-</html>    
+</html>
