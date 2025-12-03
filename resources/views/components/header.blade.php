@@ -38,9 +38,9 @@
                 <div class="header-nav main-nav-one">
                     <nav>
                         <ul>
-                            <li class="mega has-dropdown">
-                                <a class="nav-link" href="#">HOME</a>
-                                <ul class="submenu">
+                            <li class="">
+                                <a class="menu-item" href="/">HOME</a>
+                                {{-- <ul class="submenu">
                                     <div class="container flex-mega">
                                         <li class="menu-item">
                                             <a class="tag" href="#">Multipage</a>
@@ -63,24 +63,24 @@
                                             </ul>
                                         </li>
                                     </div>
-                                </ul>
+                                </ul> --}}
                             </li>
-                            <li><a class="nav-link" href="aboutus.html">ABOUT</a></li>
+                            <li><a class="nav-link" href="/about">ABOUT</a></li>
                             <li class="has-dropdown">
                                 <a class="nav-link" href="#">SERVICES</a>
                                 <ul class="submenu">
-                                    <li><a href="service.html">Service</a></li>
-                                    <li><a href="service-details.html">Service Details</a></li>
+                                    <li><a href="/services">Service</a></li>
+                                    {{-- <li><a href="service-details.html">Service Details</a></li> --}}
                                 </ul>
                             </li>
-                            <li class="has-dropdown">
+                            {{-- <li class="has-dropdown">
                                 <a class="nav-link" href="#">BLOG</a>
                                 <ul class="submenu">
                                     <li><a href="blog.html">Blog</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                 </ul>
-                            </li>
-                            <li class="has-dropdown">
+                            </li> --}}
+                            {{-- <li class="has-dropdown">
                                 <a class="nav-link" href="#">PAGES</a>
                                 <ul class="submenu">
                                     <li><a href="appoinment.html">Appoinment</a></li>
@@ -99,8 +99,8 @@
                                     <li><a href="contact.html">Contact</a></li>
                                     <li><a href="faq.html">Faq</a></li>
                                 </ul>
-                            </li>
-                            <li><a class="nav-link" href="contact.html">CONTACT</a></li>
+                            </li> --}}
+                            <li><a class="nav-link" href="/contact">CONTACT</a></li>
                         </ul>
                     </nav>
                 </div>

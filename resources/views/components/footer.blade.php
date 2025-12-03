@@ -19,7 +19,7 @@
                                     </div>
                                     <div class="contact-info">
                                         <p>Phone Number</p>
-                                        <a href="tel:+4733378901">(+202) 2156-2145</a>
+                                        <a href="tel:+4733378901">0561716795</a>
                                     </div>
                                 </div>
                                 <!-- single contact area end -->
@@ -211,4 +211,3 @@
     <!-- rts footer area one end -->
     <!-- Footer style two End -->
 
-    
