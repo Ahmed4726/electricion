@@ -18,22 +18,20 @@
                                 <div class="col-lg-6 order-xl-1 order-lg-1 order-md-2 order-sm-2 order-1 ptb--140 ptb_sm--70">
                                     <div class="bannr-content-technical">
                                         <span class="pre-title">
-                                            Best Reliable Service
+                                           Dubai Best Reliable Service
                                         </span>
                                         <h1 class="title">
-                                            Best Electric <br>
-                                            Solution For Your <br>
-                                            Family
+                                           Fast Electrical Solutions Across Dubai.
                                         </h1>
                                         <div class="button-area">
-                                            <a href="#" class="rts-btn btn-primary">Make an Appointment</a>
-                                            <a href="#" class="rts-btn btn-secondary">Our Services</a>
+                                            <a href="/contact" class="rts-btn btn-primary">Make an Appointment</a>
+                                            <a href="/services" class="rts-btn btn-secondary">Our Services</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 order-xl-2 order-xl-2 order-md-1 order-sm-1 order-1">
                                     <div class="thumbanail-img-right">
-                                        <img src="assets/images/banner/09.png" alt="banner">
+                                        <img src="assets/images/banner/elect2.jpg" alt="banner">
                                     </div>
                                 </div>
                             </div>
@@ -54,12 +52,10 @@
                                 <div class="col-lg-6 order-xl-1 order-lg-1 order-md-2 order-sm-2 order-1 ptb--140 ptb_sm--70">
                                     <div class="bannr-content-technical">
                                         <span class="pre-title">
-                                            Best Reliable Service
+                                           Dubai Best Reliable Service
                                         </span>
                                         <h1 class="title">
-                                            Best Electric <br>
-                                            Solution For Your <br>
-                                            Family
+                                          Your Trusted Dubai Electricians.
                                         </h1>
                                         <div class="button-area">
                                             <a href="#" class="rts-btn btn-primary">Make an Appointment</a>
@@ -69,7 +65,7 @@
                                 </div>
                                 <div class="col-lg-6 order-xl-2 order-xl-2 order-md-1 order-sm-1 order-1">
                                     <div class="thumbanail-img-right">
-                                        <img src="assets/images/banner/09.png" alt="banner">
+                                         <img src="assets/images/banner/elect3.jpg" alt="banner">
                                     </div>
                                 </div>
                             </div>
@@ -90,12 +86,10 @@
                                 <div class="col-lg-6 order-xl-1 order-lg-1 order-md-2 order-sm-2 order-1 ptb--140 ptb_sm--70">
                                     <div class="bannr-content-technical">
                                         <span class="pre-title">
-                                            Best Reliable Service
+                                           Dubai Best Reliable Service
                                         </span>
                                         <h1 class="title">
-                                            Best Electric <br>
-                                            Solution For Your <br>
-                                            Family
+                                           Powering Dubai, Safely & Reliably.
                                         </h1>
                                         <div class="button-area">
                                             <a href="#" class="rts-btn btn-primary">Make an Appointment</a>
@@ -105,7 +99,7 @@
                                 </div>
                                 <div class="col-lg-6 order-xl-2 order-xl-2 order-md-1 order-sm-1 order-1">
                                     <div class="thumbanail-img-right">
-                                        <img src="assets/images/banner/09.png" alt="banner">
+                                         <img src="assets/images/banner/elect5.jpg" alt="banner">
                                     </div>
                                 </div>
                             </div>
@@ -128,7 +122,7 @@
                 <div class="col-lg-12">
                     <div class="title-area-center">
                         <p class="pre">
-                            Quality Handyman Solution
+                            Quality Electrician Solution
                         </p>
                         <h2 class="title">
                             Delivering Exceptional <br>
@@ -142,7 +136,7 @@
                     <!-- single service area start -->
                     <div class="single-service-electrical">
                         <div class="thumbnail">
-                            <img src="assets/images/service/16.jpg" alt="service">
+                            <img src="assets/images/services/16.jpg" alt="service">
                         </div>
                         <div class="icon">
 
@@ -168,12 +162,12 @@
                         </div>
                         <div class="body-content">
                             <a href="#">
-                                <h5 class="title">Commercial Repair</h5>
+                                <h5 class="title">Residential Electrical Solutions</h5>
                             </a>
                             <p class="disc">
-                                Malesuada parturient aliquet cum tortor ante sollicitudin fermentum.
+                                Safe, Smart Power for Your Home
                             </p>
-                            <a href="#" class="rts-btn btn-border">Discover More</a>
+                            {{-- <a href="#" class="rts-btn btn-border">Discover More</a> --}}
                         </div>
                     </div>
                     <!-- single service area end -->
@@ -182,7 +176,7 @@
                     <!-- single service area start -->
                     <div class="single-service-electrical">
                         <div class="thumbnail">
-                            <img src="assets/images/service/17.jpg" alt="service">
+                            <img src="assets/images/services/17.jpg" alt="service">
                         </div>
                         <div class="icon">
 
@@ -198,12 +192,12 @@
                         </div>
                         <div class="body-content">
                             <a href="#">
-                                <h5 class="title">Residential Repair</h5>
+                                <h5 class="title">Commercial Electrical Solutions</h5>
                             </a>
                             <p class="disc">
-                                Malesuada parturient aliquet cum tortor ante sollicitudin fermentum.
+                              Reliable Electrical Systems for Business.
                             </p>
-                            <a href="#" class="rts-btn btn-border">Discover More</a>
+                            {{-- <a href="#" class="rts-btn btn-border">Discover More</a> --}}
                         </div>
                     </div>
                     <!-- single service area end -->
@@ -212,7 +206,7 @@
                     <!-- single service area start -->
                     <div class="single-service-electrical">
                         <div class="thumbnail">
-                            <img src="assets/images/service/18.jpg" alt="service">
+                            <img src="assets/images/services/18.jpg" alt="service">
                         </div>
                         <div class="icon">
 
@@ -238,12 +232,12 @@
                         </div>
                         <div class="body-content">
                             <a href="#">
-                                <h5 class="title">Industrial Repair</h5>
+                                <h5 class="title">Industrial Electrical Solutions</h5>
                             </a>
                             <p class="disc">
-                                Malesuada parturient aliquet cum tortor ante sollicitudin fermentum.
+                                Heavy-Duty Power, Expertly Managed.
                             </p>
-                            <a href="#" class="rts-btn btn-border">Discover More</a>
+                            {{-- <a href="#" class="rts-btn btn-border">Discover More</a> --}}
                         </div>
                     </div>
                     <!-- single service area end -->
@@ -261,14 +255,14 @@
                     <div class="title-area-btn-wrapper">
                         <div class="title-area-left">
                             <p class="pre">
-                                Quality Handyman Solution
+                                Quality Electrician Solution
                             </p>
                             <h2 class="title">
                                 By Using Our Top Technician <br>
                                 <span>Solve Your Problem</span>
                             </h2>
                         </div>
-                        <a href="#" class="rts-btn btn-primary mb--20">Make an Appointment</a>
+                        <a href="/contact" class="rts-btn btn-primary mb--20">Make an Appointment</a>
                     </div>
                 </div>
             </div>
@@ -282,7 +276,7 @@
                             </div>
                             <div class="info-area">
                                 <h5 class="title">Happy Customer</h5>
-                                <p>Aliquet mollis aenean cum <br> dupulvinar oncus stra.</p>
+                                {{-- <p>Aliquet mollis aenean cum <br> dupulvinar oncus stra.</p> --}}
                             </div>
                         </div>
                         <!-- sinle fun facts end -->
@@ -293,7 +287,7 @@
                             </div>
                             <div class="info-area">
                                 <h5 class="title">Project Done</h5>
-                                <p>Aliquet mollis aenean cum <br> dupulvinar oncus stra.</p>
+                                {{-- <p>Aliquet mollis aenean cum <br> dupulvinar oncus stra.</p> --}}
                             </div>
                         </div>
                         <!-- sinle fun facts end -->
@@ -304,7 +298,7 @@
                             </div>
                             <div class="info-area">
                                 <h5 class="title">Running Project</h5>
-                                <p>Aliquet mollis aenean cum <br> dupulvinar oncus stra.</p>
+                                {{-- <p>Aliquet mollis aenean cum <br> dupulvinar oncus stra.</p> --}}
                             </div>
                         </div>
                         <!-- sinle fun facts end -->
@@ -321,18 +315,18 @@
             <div class="row g-5">
                 <div class="col-lg-6">
                     <div class="thumbanil-about-electitian">
-                        <img src="assets/images/about/21.png" alt="about">
+                        <img src="assets/images/banner/elect1.jpg" alt="about">
                     </div>
                 </div>
                 <div class="col-lg-6 pl--50 pl_sm--20">
                     <div class="about-area-right-electritian">
                         <div class="title-area-left">
                             <p class="pre">
-                                Quality Handyman Solution
+                                Quality Electrician Solution
                             </p>
                             <h2 class="title">
-                                Produce Your Own Clean <br>
-                                <span>Save The Environment</span>
+                                Safe. Reliable. Professional Electrical Services. <br>
+                                {{-- <span>Save The Environment</span> --}}
 
                             </h2>
                         </div>
@@ -357,7 +351,7 @@
                                     <!-- single nav content start -->
                                     <div class="single-about-content-solar">
                                         <p class="disc">
-                                            Ontes mauris eget aliquet fermentum venenatis taciti tempus dignssim mollis pharetra class habitant congue pulvinar rhoncus proin bibendum torquent life ultrices penatibus feugiat phasellus.
+                                           We provide reliable, safe, and professional electrical services with skilled technicians, fast response times, and quality workmanship you can trust.
                                         </p>
                                         <div class="row align-items-center">
                                             <div class="col-lg-6">
@@ -394,7 +388,7 @@
                                             </div>
                                         </div>
                                         <!-- vedio area start -->
-                                        <div class="vedio-area-start">
+                                        {{-- <div class="vedio-area-start">
                                             <a href="#" class="rts-btn btn-primary">Read More <i class="fa-regular fa-arrow-right"></i></a>
                                             <div class="vedio-icone">
                                                 <a id="play-video" class="video-play-button" href="#">
@@ -407,7 +401,7 @@
                                                     <a class="video-overlay-close">×</a>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> --}}
                                         <!-- vedio area end -->
                                     </div>
                                     <!-- single nav content end -->
@@ -416,7 +410,7 @@
                                     <!-- single nav content start -->
                                     <div class="single-about-content-solar">
                                         <p class="disc">
-                                            Ontes mauris eget aliquet fermentum venenatis taciti tempus dignssim mollis pharetra class habitant congue pulvinar rhoncus proin bibendum torquent life ultrices penatibus feugiat phasellus.
+                                           To provide safe, reliable, and high-quality electrical services across Dubai, meeting local standards while delivering trusted solutions for homes and businesses.
                                         </p>
                                         <div class="row align-items-center">
                                             <div class="col-lg-6">
@@ -453,7 +447,7 @@
                                             </div>
                                         </div>
                                         <!-- vedio area start -->
-                                        <div class="vedio-area-start">
+                                        {{-- <div class="vedio-area-start">
                                             <a href="#" class="rts-btn btn-primary">Read More <i class="fa-regular fa-arrow-right"></i></a>
                                             <div class="vedio-icone">
                                                 <a id="play-video" class="video-play-button" href="#">
@@ -466,7 +460,7 @@
                                                     <a class="video-overlay-close">×</a>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> --}}
                                         <!-- vedio area end -->
                                     </div>
                                     <!-- single nav content end -->
@@ -475,7 +469,7 @@
                                     <!-- single nav content start -->
                                     <div class="single-about-content-solar">
                                         <p class="disc">
-                                            Ontes mauris eget aliquet fermentum venenatis taciti tempus dignssim mollis pharetra class habitant congue pulvinar rhoncus proin bibendum torquent life ultrices penatibus feugiat phasellus.
+                                          To become Dubai’s trusted choice for professional electrical services by delivering safe, efficient, and dependable solutions for homes and businesses.
                                         </p>
                                         <div class="row align-items-center">
                                             <div class="col-lg-6">
@@ -512,7 +506,7 @@
                                             </div>
                                         </div>
                                         <!-- vedio area start -->
-                                        <div class="vedio-area-start">
+                                        {{-- <div class="vedio-area-start">
                                             <a href="#" class="rts-btn btn-primary">Read More <i class="fa-regular fa-arrow-right"></i></a>
                                             <div class="vedio-icone">
                                                 <a id="play-video" class="video-play-button" href="#">
@@ -525,7 +519,7 @@
                                                     <a class="video-overlay-close">×</a>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> --}}
                                         <!-- vedio area end -->
                                     </div>
                                     <!-- single nav content end -->
@@ -552,16 +546,17 @@
                             <p class="pre">
                                 Feel Free To COntact Us
                             </p>
-                            <h2 class="title">
-                                Get Premium Handyman <br>
-                                Service From Us!
-                            </h2>
+                          <h2 class="title">
+    Get Premium Electrician <br>
+    Services Across Dubai!
+</h2>
+
                         </div>
                         <div class="cta-button-area">
-                            <a href="service.html" class="rts-btn btn-primary">
+                            <a href="/services" class="rts-btn btn-primary">
                                 Get Our Service
                             </a>
-                            <a href="contact.html" class="rts-btn btn-border">
+                            <a href="/contact" class="rts-btn btn-border">
                                 Contact Us
                             </a>
                         </div>
@@ -574,7 +569,7 @@
 
     <!-- rts team area start -->
     <div class="rts-team-area rts-section-gap bg_image">
-        <div class="container">
+        {{-- <div class="container">
             <div class="row">
                 <div class="title-area-center">
                     <p class="pre">
@@ -696,7 +691,7 @@
                     <!-- single team area end -->
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
     <!-- rts team area end -->
 
@@ -813,7 +808,7 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="left-why-t-thumbnail">
-                        <img src="assets/images/about/22.jpg" alt="about">
+                         <img src="assets/images/banner/elect3.jpg" alt="banner">
                         <div class="short-image">
                             <img src="assets/images/about/23.jpg" alt="short-image">
                         </div>
@@ -1022,7 +1017,7 @@
 
     <!-- blog area start -->
     <div class="rts-about-company-wrapper rts-section-gap">
-        <div class="container">
+        {{-- <div class="container">
             <div class="row g-24">
                 <div class="col-lg-12">
                     <div class="title-area-center">
@@ -1119,7 +1114,7 @@
                     <!-- company story end -->
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
     <!-- blog area end -->
-     @endsection  
+     @endsection

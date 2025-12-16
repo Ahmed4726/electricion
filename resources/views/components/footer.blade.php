@@ -19,7 +19,7 @@
                                     </div>
                                     <div class="contact-info">
                                         <p>Phone Number</p>
-                                        <a href="tel:+4733378901">0561716795</a>
+                                        <a href="tel:+971561716795">+971561716795</a>
                                     </div>
                                 </div>
                                 <!-- single contact area end -->
@@ -64,7 +64,7 @@
                             </div>
                             <div class="body">
                                 <p class="disc">
-                                    Centric aplications productize before front end vortals visualize front end is results and value added
+                                 We are a professional electrician service provider in Dubai, delivering safe, reliable, and high-quality electrical solutions for residential, commercial, and industrial properties. Our certified technicians follow Dubai regulations and safety standards, ensuring efficient workmanship, timely service, and complete customer satisfaction. Whether it’s installation, maintenance, or emergency support, we are committed to powering Dubai with trust and excellence.
                                 </p>
                                 <div class="rts-social-style-one">
                                     <ul>
@@ -100,31 +100,31 @@
                                 <div class="pages-footer">
                                     <ul>
                                         <li>
-                                            <a href="#">
+                                            <a href="/about">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                                 <p>About Us</p>
                                             </a>
                                         </li>
-                                        <li>
+                                        {{-- <li>
                                             <a href="#">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                                 <p>Our Gallery</p>
                                             </a>
-                                        </li>
+                                        </li> --}}
                                         <li>
-                                            <a href="#">
+                                            <a href="/services">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                                 <p>Our Services</p>
                                             </a>
                                         </li>
-                                        <li>
+                                        {{-- <li>
                                             <a href="#">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                                 <p>Our Team</p>
                                             </a>
-                                        </li>
+                                        </li> --}}
                                         <li>
-                                            <a href="#">
+                                            <a href="/contact">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                                 <p>Contact Us</p>
                                             </a>
@@ -141,12 +141,12 @@
                                 <div class="pages-footer">
                                     <ul>
                                         <li>
-                                            <a href="#">
+                                            <a href="/services">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                                 <p>Our Service</p>
                                             </a>
                                         </li>
-                                        <li>
+                                        {{-- <li>
                                             <a href="#">
                                                 <i class="fa-solid fa-arrow-right"></i>
                                                 <p>Office Service</p>
@@ -169,7 +169,7 @@
                                                 <i class="fa-solid fa-arrow-right"></i>
                                                 <p>Single Service</p>
                                             </a>
-                                        </li>
+                                        </li> --}}
                                     </ul>
                                 </div>
                             </div>

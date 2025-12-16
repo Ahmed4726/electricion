@@ -9,11 +9,11 @@
                     <div class="con-tent-main">
                         <div class="wrapper">
                             <div class="slug">
-                                <a href="#index.html">HOME /</a>
-                                <a class="active" href="#index.html">OUR SERVICE</a>
+                                <a href="/">HOME /</a>
+                                <a class="active" href="/services">OUR SERVICE</a>
                             </div>
                             <div class="title">
-                                <a href="#">Our Service</a>
+                                <a href="/services">Our Service</a>
                             </div>
                         </div>
                     </div>
@@ -24,7 +24,161 @@
     <!-- rts breadcrumb area end -->
     <!-- header style two End -->
 
-    <!-- service area card start -->
+
+
+    <!-- service thumb area start -->
+    <div class="short-service-area rts-section-gap">
+        <div class="container">
+            <div class="row g-24">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/01.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Lighting Installation & Repair</h5>
+                        </a>
+                        <p class="disc">
+                            Brighten your space with expert lighting solutions.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/02.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Wiring & Rewiring Services</h5>
+                        </a>
+                        <p class="disc">
+                          Secure and modern wiring for new or renovated properties.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/03.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Electrical Circuit Upgrades</h5>
+                        </a>
+                        <p class="disc">
+                            Enhance safety and efficiency with upgraded panels and circuits.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/04.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Home Automation Systems</h5>
+                        </a>
+                        <p class="disc">
+                            Modern smart solutions for convenience and energy efficiency.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/05.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Emergency Electrical Repairs</h5>
+                        </a>
+                        <p class="disc">
+                           24/7 fast response for urgent electrical issues repair.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/06.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Commercial Electrical Solutions</h5>
+                        </a>
+                        <p class="disc">
+                            Safe and efficient electrical services for homes across Dubai.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/04.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Residential Electrical Solutions</h5>
+                        </a>
+                        <p class="disc">
+                          Safe and efficient electrical services for homes across Dubai.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/05.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Industrial Electrical Solutions</h5>
+                        </a>
+                        <p class="disc">
+                           Heavy-duty electrical care for factories and industrial facilities.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
+                    <!-- single showrt service start -->
+                    <div class="short-service-style-one">
+                        <a href="#" class="thumbnail">
+                            <img src="assets/images/service/06.png" alt="service-area">
+                        </a>
+                        <a href="#">
+                            <h5 class="title">Preventive Electrical Solution</h5>
+                        </a>
+                        <p class="disc">
+                           Regular checks to avoid breakdowns and ensure safety.
+                        </p>
+                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                    </div>
+                    <!-- single showrt service end -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- service thumb area end -->
+  <!-- service area card start -->
     <div class="rts-service-area rts-section-gap bg-service_s">
         <div class="container">
             <div class="row g-40">
@@ -124,112 +278,6 @@
         </div>
     </div>
     <!-- service area card end -->
-
-    <!-- service thumb area start -->
-    <div class="short-service-area rts-section-gap">
-        <div class="container">
-            <div class="row g-24">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                    <!-- single showrt service start -->
-                    <div class="short-service-style-one">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/01.png" alt="service-area">
-                        </a>
-                        <a href="service-details.html">
-                            <h5 class="title">Matchine service</h5>
-                        </a>
-                        <p class="disc">
-                            This will protect you case of any accidents or damage that maybe occur while handyman
-                        </p>
-                        <a href="service-details.html" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
-                    </div>
-                    <!-- single showrt service end -->
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                    <!-- single showrt service start -->
-                    <div class="short-service-style-one">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/02.png" alt="service-area">
-                        </a>
-                        <a href="service-details.html">
-                            <h5 class="title">Mic Cheep</h5>
-                        </a>
-                        <p class="disc">
-                            This will protect you case of any accidents or damage that maybe occur while handyman
-                        </p>
-                        <a href="service-details.html" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
-                    </div>
-                    <!-- single showrt service end -->
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                    <!-- single showrt service start -->
-                    <div class="short-service-style-one">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/03.png" alt="service-area">
-                        </a>
-                        <a href="service-details.html">
-                            <h5 class="title">Mother Board</h5>
-                        </a>
-                        <p class="disc">
-                            This will protect you case of any accidents or damage that maybe occur while handyman
-                        </p>
-                        <a href="service-details.html" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
-                    </div>
-                    <!-- single showrt service end -->
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                    <!-- single showrt service start -->
-                    <div class="short-service-style-one">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/04.png" alt="service-area">
-                        </a>
-                        <a href="service-details.html">
-                            <h5 class="title">Office Room Clean</h5>
-                        </a>
-                        <p class="disc">
-                            This will protect you case of any accidents or damage that maybe occur while handyman
-                        </p>
-                        <a href="service-details.html" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
-                    </div>
-                    <!-- single showrt service end -->
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                    <!-- single showrt service start -->
-                    <div class="short-service-style-one">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/05.png" alt="service-area">
-                        </a>
-                        <a href="service-details.html">
-                            <h5 class="title">Radio Repare</h5>
-                        </a>
-                        <p class="disc">
-                            This will protect you case of any accidents or damage that maybe occur while handyman
-                        </p>
-                        <a href="service-details.html" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
-                    </div>
-                    <!-- single showrt service end -->
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12">
-                    <!-- single showrt service start -->
-                    <div class="short-service-style-one">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/06.png" alt="service-area">
-                        </a>
-                        <a href="service-details.html">
-                            <h5 class="title">Phone Repare</h5>
-                        </a>
-                        <p class="disc">
-                            This will protect you case of any accidents or damage that maybe occur while handyman
-                        </p>
-                        <a href="service-details.html" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
-                    </div>
-                    <!-- single showrt service end -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- service thumb area end -->
-
     <!-- What Customers Says -->
     <div class="rts-customers-says-area rts-section-gapTop bg_image bg-testimonials-1">
         <div class="container">
@@ -237,7 +285,7 @@
                 <div class="col-lg-12">
                     <div class="title-area-center">
                         <p class="pre">
-                            <span>Quality Handyman</span> Solution
+                            <span>Quality Electrician</span> Solution
                         </p>
                         <h2 class="title">
                             What Customers Says
@@ -322,7 +370,7 @@
 
     <!-- rts blog area start -->
     <div class="rts-blog-area rts-section-gapTop">
-        <div class="container pb--160">
+        {{-- <div class="container pb--160">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-area-center">
@@ -430,7 +478,7 @@
                     <!-- blog-single area end -->
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
     <!-- rts blog area end -->
 @endsection

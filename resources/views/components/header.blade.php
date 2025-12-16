@@ -10,7 +10,7 @@
                                 <path d="M6.95455 6.95455H12.3636L5.40909 17V10.0455H0L6.95455 0V6.95455Z" fill="#F47629" />
                             </svg>
                             <p>
-                                Express delivery and free returns within 24 hours
+                                Quick Electrical Support Across Dubai – Within 24 Hours.
                             </p>
                         </div>
                         <div class="right">
@@ -124,7 +124,7 @@
 
                         </div>
                     </div>
-                    <a href="appoinment.html" class="rts-btn btn-primary">Make An Appointment </a>
+                    {{-- <a href="appoinment.html" class="rts-btn btn-primary">Make An Appointment </a> --}}
                 </div>
             </div>
             <!-- header main area end -->
@@ -157,9 +157,9 @@
         <div class="mobile-menu-main">
             <nav class="nav-main mainmenu-nav mt--30">
                 <ul class="mainmenu metismenu" id="mobile-menu-active">
-                    <li class="has-droupdown">
-                        <a href="#" class="main">Home</a>
-                        <ul class="submenu mm-collapse">
+                    <li class="">
+                        <a href="/" class="main">Home</a>
+                        {{-- <ul class="submenu mm-collapse">
                             <a href="#" class="tag">Multipage</a>
                             <li><a class="mobile-menu-link" href="index.html">Electric</a></li>
                             <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/handyman/">Handyman</a></li>
@@ -174,26 +174,26 @@
                             <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/plumber/onepage.html">Plumber Onepage</a></li>
                             <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/cleaning/onepage.html"> Cleaning Onepage</a></li>
                             <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/air-condition/onepage.html">Air Condition Onepage</a></li>
-                        </ul>
+                        </ul> --}}
                     </li>
                     <li>
-                        <a href="about.html" class="main">About</a>
+                        <a href="/about" class="main">About</a>
                     </li>
                     <li class="has-droupdown">
                         <a href="#" class="main">Services</a>
-                        <ul class="submenu mm-collapse">
-                            <li><a class="mobile-menu-link" href="service.html">Service</a></li>
-                            <li><a class="mobile-menu-link" href="service-details.html">Service Details</a></li>
+                        <ul class="mm-collapse">
+                            <li><a class="mobile-menu-link" href="/services">Service</a></li>
+                            {{-- <li><a class="mobile-menu-link" href="service-details.html">Service Details</a></li> --}}
                         </ul>
                     </li>
-                    <li class="has-droupdown">
+                    {{-- <li class="has-droupdown">
                         <a href="#" class="main">Blog</a>
                         <ul class="submenu mm-collapse">
                             <li><a class="mobile-menu-link" href="blog.html">Blog</a></li>
                             <li><a class="mobile-menu-link" href="blog-details.html">Blog Details</a></li>
                         </ul>
-                    </li>
-                    <li class="has-droupdown">
+                    </li> --}}
+                    {{-- <li class="has-droupdown">
                         <a href="#" class="main">Pages</a>
                         <ul class="submenu mm-collapse">
                             <li><a class="mobile-menu-link" href="appoinment.html">Appoinment</a></li>
@@ -212,9 +212,9 @@
                             <li><a class="mobile-menu-link" href="contact.html">Contact</a></li>
                             <li><a class="mobile-menu-link" href="faq.html">Faq</a></li>
                         </ul>
-                    </li>
+                    </li> --}}
                     <li>
-                        <a href="contactus.html" class="main">Contact Us</a>
+                        <a href="/contact" class="main">Contact Us</a>
                     </li>
                 </ul>
             </nav>

@@ -8,11 +8,11 @@
                     <div class="con-tent-main">
                         <div class="wrapper">
                             <div class="slug">
-                                <a href="#index.html">HOME /</a>
-                                <a class="active" href="#index.html">Contact</a>
+                                <a href="/">HOME /</a>
+                                <a class="active" href="/contact">Contact</a>
                             </div>
                             <div class="title">
-                                <a href="#">Contact Us</a>
+                                <a href="/contact">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -60,8 +60,8 @@
                         </div>
                         <div class="content">
                             <span>Make A Call</span>
-                            <a href="tel:+4733378901">
-                                <h5 class="title">0561716795</h5>
+                            <a href="tel:+971561716795">
+                                <h5 class="title">+971561716795</h5>
                             </a>
                         </div>
                     </div>
@@ -80,8 +80,8 @@
                         </div>
                         <div class="content">
                             <span>Make A Call</span>
-                            <a href="tel:+4733378901">
-                                <h5 class="title">0561716795</h5>
+                            <a href="tel:+971561716795">
+                                <h5 class="title">+971561716795</h5>
                             </a>
                         </div>
                     </div>

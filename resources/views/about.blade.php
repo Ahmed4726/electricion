@@ -9,7 +9,7 @@
                         <div class="wrapper">
                             <div class="slug">
                                 <a href="#index.html">HOME /</a>
-                                <a class="active" href="#index.html">ABOUT US</a>
+                                <a class="active" href="/about">ABOUT US</a>
                             </div>
                             <div class="title">
                                 <a href="#">About Us</a>
@@ -30,10 +30,10 @@
                 <div class="col-lg-6">
                     <div class="about-image-left">
                         <div class="thumbnail">
-                            <img src="assets/images/about/01.jpg" alt="about-area">
+                            <img src="assets/images/banner/elect1.jpg" alt="about-area" width="80%" height="50%">
                         </div>
                         <div class="small-image images">
-                            <img src="assets/images/about/02.jpg" alt="about-area">
+                            <img src="assets/images/banner/elect3.jpg" alt="about-area" width="35%" height="50%">
                         </div>
                         <div class="exp-badge">
                             <h4 class="title">25</h4>
@@ -50,15 +50,14 @@
                                 <span>Quality Handyman</span> Solution
                             </p>
                             <h2 class="title">
-                                A Company That Change <br>
-                                And Solve your All Kind Of
-                                <span>Handyman Solutions</span>
+                                Trusted Electrical Experts Serving Dubai.<br>
+                                <span>Electrician Solutions</span>
                             </h2>
                         </div>
                         <p class="disc">
-                            Phasellus torquent neque volutpat dictumst tellus ultricies taciti interdum fusce, tortor ridiculus sociis cum at ultrices aliquet pulvinar nulla erat, senectus imperdiet sollicitudin lacus lacinia id a facilisi. Nam dictumst conubia natoque rhoncus enim tristique curae volutpat orci, tortor blandit eleifend class
+                           We are a professional electrician service provider in Dubai, delivering safe, reliable, and high-quality electrical solutions for residential, commercial, and industrial properties. Our certified technicians follow Dubai regulations and safety standards, ensuring efficient workmanship, timely service, and complete customer satisfaction. Whether it’s installation, maintenance, or emergency support, we are committed to powering Dubai with trust and excellence.
                         </p>
-                        <a href="appoinment.html" class="rts-btn btn-primary with-arrow">Request Quote <i class="fa-regular fa-arrow-up-right"></i></a>
+                        {{-- +<a href="appoinment.html" class="rts-btn btn-primary with-arrow">Request Quote <i class="fa-regular fa-arrow-up-right"></i></a> --}}
                     </div>
                     <!-- about inner content area end -->
                 </div>
@@ -99,9 +98,9 @@
                             </svg>
                         </div>
                         <div class="content">
-                            <h5 class="title">Register For Work</h5>
+                            <h5 class="title">Schedule Your Service</h5>
                             <p class="disc">
-                                Vulputate libero morbi suscipit curabitur cum aliqam nascetur laoreet nam,
+                               Book a certified electrician in Dubai quickly and easily.
                             </p>
                             <div class="step_number">
                                 <span>01</span>
@@ -120,9 +119,9 @@
                             </svg>
                         </div>
                         <div class="content">
-                            <h5 class="title">Inspect & Analyze</h5>
+                            <h5 class="title">Inspect & Assess</h5>
                             <p class="disc">
-                                Vulputate libero morbi suscipit curabitur cum aliqam nascetur laoreet nam,
+                               Our experts evaluate your electrical systems to identify issues and recommend solutions.
                             </p>
                             <div class="step_number">
                                 <span>02</span>
@@ -142,9 +141,9 @@
                             </svg>
                         </div>
                         <div class="content">
-                            <h5 class="title">Work Processing</h5>
+                            <h5 class="title">Electrical Work Execution</h5>
                             <p class="disc">
-                                Vulputate libero morbi suscipit curabitur cum aliqam nascetur laoreet nam,
+                                Skilled technicians carry out installations, repairs, or maintenance safely and efficiently.
                             </p>
                             <div class="step_number">
                                 <span>03</span>
@@ -172,9 +171,9 @@
                             </svg>
                         </div>
                         <div class="content">
-                            <h5 class="title">Handover Clients</h5>
+                            <h5 class="title">Project Handover</h5>
                             <p class="disc">
-                                Vulputate libero morbi suscipit curabitur cum aliqam nascetur laoreet nam,
+                               We ensure everything is tested, safe, and ready before handing your system back.
                             </p>
                             <div class="step_number">
                                 <span>04</span>
@@ -204,9 +203,9 @@
                             <span>
                                 Call Us For Service
                             </span>
-                            <a href="tel:+4733378901">
+                            <a href="tel:+971561716795">
                                 <h4 class="title">
-                                    0561716795
+                                    +971561716795
                                 </h4>
                             </a>
                             <p>Call 24/7 Anytime For Your Problem</p>
@@ -243,7 +242,7 @@
 
     <!-- rts team area start -->
     <div class="rts-team-area rts-section-gap rts-team-bg-2 bg_image">
-        <div class="container">
+        {{-- <div class="container">
             <div class="row">
                 <div class="title-area-center">
                     <p class="pre">
@@ -365,7 +364,7 @@
                     <!-- single team area end -->
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
     <!-- rts team area end -->
 
@@ -376,10 +375,10 @@
                 <div class="col-lg-6">
                     <div class="rts-solution-left-area-left">
                         <div class="thumbnail">
-                            <img src="assets/images/solution/01.png" alt="solution">
+                            <img src="assets/images/banner/elect3.jpg" alt="solution" width="80%" height="50%">
                         </div>
                         <div class="small-image images">
-                            <img src="assets/images/solution/02.jpg" alt="solution">
+                            <img src="assets/images/banner/elect4.jpg" alt="about-area">
                         </div>
                     </div>
                 </div>
@@ -388,7 +387,7 @@
                     <div class="feed-back-about-wrapper">
                         <div class="title-area-left">
                             <p class="pre">
-                                <span>Quality Handyman</span> Solution
+                                <span>Quality Electrician</span> Solution
                             </p>
                             <h2 class="title">
                                 Amazing Feedback Say
@@ -474,7 +473,7 @@
 
     <!-- rts about company wrapper start -->
     <div class="rts-about-company-wrapper rts-section-gap bg-abc-wrapper bg_image">
-        <div class="container pb--160">
+        {{-- <div class="container pb--160">
             <div class="row g-24">
                 <div class="col-lg-12">
                     <div class="title-area-center">
@@ -570,7 +569,7 @@
                     <!-- company story end -->
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
     <!-- rts about company wrapper ewn -->
 @endsection

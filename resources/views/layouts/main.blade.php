@@ -52,11 +52,11 @@
 
 @yield('content')
 <div class="floating-buttons">
-    <a href="https://wa.me/923001234567" target="_blank" class="float-whatsapp">
+    <a href="https://wa.me/+971561716795" target="_blank" class="float-whatsapp">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
     </a>
 
-    <a href="tel:+923001234567" class="float-call">
+    <a href="tel:+971561716795" class="float-call">
         <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Call">
     </a>
 </div>
