@@ -61,7 +61,7 @@
         <div class="container-header">
             <!-- header main area start -->
             <div class="header-main-area header--sticky">
-               <a href="index.html" class="logo-main">
+               <a href="/" class="logo-main">
     <img src="assets/images/banner/logo.jpeg" alt="logo-main" class="logo-img logo-img-mobile" width="22%">
     <b class="text-dark display-title" style="margin-left:-20px;">Supreme Building Maintenance</b>
 </a>
