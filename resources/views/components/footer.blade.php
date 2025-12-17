@@ -8,7 +8,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-3 col-md-6 col-sm-6 col-12">
                                 <a href="#" class="logo-area-footer">
-                                    <img src="assets/images/logo/logo-02.png" alt="logo">
+                                    <img src="assets/images/banner/logo.png" alt="logo">
                                 </a>
                             </div>
                             <div class="col-lg-3 col-md-6 col-sm-6 col-12">
@@ -202,7 +202,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="wrapper">
-                        <p>Copyright 2023. All Rights Reserved.</p>
+                       <p>Copyright <script>document.write(new Date().getFullYear());</script>. All Rights Reserved.</p>
+
                     </div>
                 </div>
             </div>

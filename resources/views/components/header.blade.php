@@ -1,5 +1,36 @@
   <!-- header style two -->
     <!-- header style start here -->
+    <style>
+
+.logo-main {
+    display: flex;
+    align-items: center;   /* vertically center */
+    gap: 10px;             /* space between image and text */
+    text-decoration: none;
+}
+
+
+.display-title {
+    text-transform: uppercase;
+    white-space: nowrap;   /* prevents wrapping to next line */
+}
+@media (max-width: 768px) {
+    .display-title {
+        display: none;
+
+    }
+}
+
+@media (max-width: 768px) {
+    .display-title {
+        display: none;
+
+    }
+    .logo-img-mobile{
+        width: 40%;
+    }
+}
+    </style>
     <header class="header-technician rts-header-area header-two">
         <div class="container">
             <div class="row">
@@ -30,9 +61,11 @@
         <div class="container-header">
             <!-- header main area start -->
             <div class="header-main-area header--sticky">
-                <a href="index.html" class="logo-main">
-                    <img src="assets/images/logo/logo-01.svg" alt="logo-main">
-                </a>
+               <a href="index.html" class="logo-main">
+    <img src="assets/images/banner/logo.jpeg" alt="logo-main" class="logo-img logo-img-mobile" width="22%">
+    <b class="text-dark display-title" style="margin-left:-20px;">Supreme Building Maintenance</b>
+</a>
+
 
 
                 <div class="header-nav main-nav-one">

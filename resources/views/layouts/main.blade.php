@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
-    <title>Drill Handyman Services</title>
+    <title>Supreme Building Maintenance</title>
 
     <!-- fontawesome css -->
     <link rel="stylesheet" href="{{asset('assets/css/plugins/fontawesome-6.css')}}">
