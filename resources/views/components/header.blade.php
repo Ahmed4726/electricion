@@ -47,11 +47,11 @@
                         <div class="right">
                             <div class="map">
                                 <i class="fa-sharp fa-regular fa-location-dot"></i>
-                                <a href="#">203 Madison Ave, New York, USA</a>
+                                <a href="#">Plot# 168, Manama, Ajman</a>
                             </div>
                             <div class="email">
                                 <i class="fa-regular fa-envelope"></i>
-                                <a href="#">info@example.com</a>
+                                <a href="#">info@supremebuildingsmaintenance.com</a>
                             </div>
                         </div>
                     </div>

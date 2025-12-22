@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="contact-info">
                                         <p>Email Us Here</p>
-                                        <a href="mailto:yourmail@example.com">info@diyer.com</a>
+                                        <a href="mailto:yourmail@example.com">info@supremebuildingsmaintenance.com</a>
                                     </div>
                                 </div>
                                 <!-- single contact area end -->
@@ -45,7 +45,7 @@
                                     </div>
                                     <div class="contact-info">
                                         <p>Office Address</p>
-                                        <a href="https://www.google.com/maps" target="_blank">251 Hilton, Berlin DE</a>
+                                        <a href="https://www.google.com/maps" target="_blank">Plot# 168, Manama, Ajman</a>
                                     </div>
                                 </div>
                                 <!-- single contact area end -->

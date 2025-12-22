@@ -13,7 +13,7 @@
                                 <a class="active" href="/services">OUR SERVICE</a>
                             </div>
                             <div class="title">
-                                <a href="/services">Our Service</a>
+                                <a href="/services">Our Services</a>
                             </div>
                         </div>
                     </div>
@@ -33,80 +33,80 @@
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/service/01.png" alt="service-area">
+                        <a href="/lightning_installation" class="thumbnail">
+                            <img src="assets/images/banner/lightning.jpeg" alt="service-area">
                         </a>
-                        <a href="#">
+                        <a href="/lightning_installation">
                             <h5 class="title">Lighting Installation & Repair</h5>
                         </a>
                         <p class="disc">
                             Brighten your space with expert lighting solutions.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="/lightning_installation" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/service/02.png" alt="service-area">
+                        <a href="/wiring" class="thumbnail">
+                            <img src="assets/images/banner/wiring.jpeg" alt="service-area">
                         </a>
-                        <a href="#">
+                        <a href="wiring">
                             <h5 class="title">Wiring & Rewiring Services</h5>
                         </a>
                         <p class="disc">
                           Secure and modern wiring for new or renovated properties.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="/wiring" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/service/03.png" alt="service-area">
+                        <a href="/electric_circuit" class="thumbnail">
+                            <img src="assets/images/banner/electric_circuit.jpeg" alt="service-area">
                         </a>
-                        <a href="#">
+                        <a href="/electric_circuit">
                             <h5 class="title">Electrical Circuit Upgrades</h5>
                         </a>
                         <p class="disc">
                             Enhance safety and efficiency with upgraded panels and circuits.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="/electric_circuit" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/service/04.png" alt="service-area">
+                        <a href="/home_automate" class="thumbnail">
+                            <img src="assets/images/banner/home_automate.jpeg" alt="service-area">
                         </a>
-                        <a href="#">
+                        <a href="/home_automate">
                             <h5 class="title">Home Automation Systems</h5>
                         </a>
                         <p class="disc">
                             Modern smart solutions for convenience and energy efficiency.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="/home_automate" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12">
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
-                        <a href="#" class="thumbnail">
-                            <img src="assets/images/service/05.png" alt="service-area">
+                        <a href="/emergency_repair" class="thumbnail">
+                            <img src="assets/images/banner/emergency_electric.jpeg" alt="service-area">
                         </a>
-                        <a href="#">
+                        <a href="/emergency_repair">
                             <h5 class="title">Emergency Electrical Repairs</h5>
                         </a>
                         <p class="disc">
                            24/7 fast response for urgent electrical issues repair.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="/emergency_repair" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
@@ -114,15 +114,15 @@
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/service/06.png" alt="service-area">
+                            <img src="assets/images/banner/commercial_electric.jpeg" alt="service-area">
                         </a>
                         <a href="#">
-                            <h5 class="title">Commercial Electrical Solutions</h5>
+                            <h5 class="title">Commercial Electrical Solution</h5>
                         </a>
                         <p class="disc">
                             Safe and efficient electrical services for homes across Dubai.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
@@ -130,7 +130,7 @@
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/service/04.png" alt="service-area">
+                            <img src="assets/images/banner/residential_electric.jpeg" alt="service-area">
                         </a>
                         <a href="#">
                             <h5 class="title">Residential Electrical Solutions</h5>
@@ -138,7 +138,7 @@
                         <p class="disc">
                           Safe and efficient electrical services for homes across Dubai.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
@@ -146,7 +146,7 @@
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/service/05.png" alt="service-area">
+                            <img src="assets/images/banner/industrial_electric.jpeg" alt="service-area">
                         </a>
                         <a href="#">
                             <h5 class="title">Industrial Electrical Solutions</h5>
@@ -154,7 +154,7 @@
                         <p class="disc">
                            Heavy-duty electrical care for factories and industrial facilities.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
@@ -162,7 +162,7 @@
                     <!-- single showrt service start -->
                     <div class="short-service-style-one">
                         <a href="#" class="thumbnail">
-                            <img src="assets/images/service/06.png" alt="service-area">
+                            <img src="assets/images/banner/preventive_electric.jpeg" alt="service-area">
                         </a>
                         <a href="#">
                             <h5 class="title">Preventive Electrical Solution</h5>
@@ -170,7 +170,7 @@
                         <p class="disc">
                            Regular checks to avoid breakdowns and ensure safety.
                         </p>
-                        {{-- <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a> --}}
+                        <a href="#" class="fancy-read-more-btn"><i class="fa-regular fa-arrow-right"></i> Read More</a>
                     </div>
                     <!-- single showrt service end -->
                 </div>
