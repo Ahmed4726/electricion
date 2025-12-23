@@ -181,12 +181,12 @@
                             <div class="body">
                                 <div class="gallery-footer">
                                     <ul>
-                                        <li><a href="#"><img src="assets/images/footer/gallery/01.png" alt="gallery"></a></li>
-                                        <li><a href="#"><img src="assets/images/footer/gallery/02.png" alt="gallery"></a></li>
-                                        <li><a href="#"><img src="assets/images/footer/gallery/03.png" alt="gallery"></a></li>
-                                        <li><a href="#"><img src="assets/images/footer/gallery/04.png" alt="gallery"></a></li>
-                                        <li><a href="#"><img src="assets/images/footer/gallery/05.png" alt="gallery"></a></li>
-                                        <li><a href="#"><img src="assets/images/footer/gallery/06.png" alt="gallery"></a></li>
+                                        <li><a href="#"><img src="assets/images/banner/electric_circuit.jpeg" alt="gallery"></a></li>
+                                        <li><a href="#"><img src="assets/images/banner/commercial_electric.jpeg" alt="gallery"></a></li>
+                                        <li><a href="#"><img src="assets/images/banner/emergency_electric.jpeg" alt="gallery"></a></li>
+                                        <li><a href="#"><img src="assets/images/banner/home_automate.jpeg" alt="gallery"></a></li>
+                                        <li><a href="#"><img src="assets/images/banner/industrial_electric.jpeg" alt="gallery"></a></li>
+                                        <li><a href="#"><img src="assets/images/banner/lightning.jpeg" alt="gallery"></a></li>
                                     </ul>
                                 </div>
                             </div>
