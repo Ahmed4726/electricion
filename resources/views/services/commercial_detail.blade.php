@@ -31,7 +31,7 @@
                 <div class="col-lg-12">
                     <div class="project-details-area-main">
                         <div class="thumbnail">
-                            <img src="assets/images/banner/commercial-electrical.jpeg" alt="Commercial Electrical Solution">
+                            <img src="assets/images/banner/commercial_electric.jpeg" alt="Commercial Electrical Solution">
                         </div>
                     </div>
                 </div>

@@ -10,10 +10,10 @@
                         <div class="wrapper">
                             <div class="slug">
                                 <a href="/">HOME /</a>
-                                <a class="active" href="/lightning_installation">Lightning Installation</a>
+                                <a class="active" href="/preventive_electrical">Preventive Electrical Solution</a>
                             </div>
                             <div class="title">
-                                <a href="/lightning_installation">Lightning Installation</a>
+                                <a href="/preventive_electrical">Preventive Electrical Solution</a>
                             </div>
                         </div>
                     </div>
@@ -31,62 +31,65 @@
                 <div class="col-lg-12">
                     <div class="project-details-area-main">
                         <div class="thumbnail">
-                            <img src="assets/images/banner/lightning.jpeg" alt="project-details">
+                            <img src="assets/images/banner/preventive_electric.jpeg" alt="project-details">
                         </div>
                     </div>
                 </div>
             </div>
+
          <div class="portfolio-disc-content">
-    <div class="title-area">
-        <span>Lighting Solutions</span>
-        <h4 class="title">Lighting Installation & Repair</h4>
-    </div>
+            <div class="title-area">
+                <span>Electrical Solutions</span>
+                <h4 class="title">Preventive Electrical Inspection & Maintenance</h4>
+            </div>
 
-    <p class="disc">
-        At <strong>Supreme Buildings Maintenance</strong>, we provide expert lighting installation and repair services across Dubai, helping homes and businesses achieve safe, efficient, and visually appealing spaces. From modern LED installations to complete lighting upgrades, our skilled technicians deliver solutions that enhance comfort, functionality, and energy efficiency.
-    </p>
-
-    <p class="disc">
-        Dubai’s residential and commercial properties demand high-quality electrical systems that meet safety regulations and modern design standards. Our team specializes in diagnosing lighting faults, repairing damaged fixtures, and installing new lighting systems that perform reliably in all environments. Every project is handled with precision, professionalism, and attention to detail.
-    </p>
-
-    <p class="quote">
-        “Professional lighting transforms spaces by improving safety, efficiency, and ambiance. At Supreme Buildings Maintenance, we ensure every installation delivers lasting performance and exceptional results.”
-    </p>
-
-    <div class="check-area-pd">
-        <h5 class="title">The Challenge Of Project</h5>
-
-        <!-- single check area -->
-        <div class="single">
-            <i class="fa-light fa-circle-check"></i>
-            <p>
-                Managing complex electrical layouts, high ceilings, and modern lighting designs in Dubai properties.
+            <p class="disc">
+                At <strong>Supreme Buildings Maintenance</strong>, our preventive electrical solutions are designed to identify potential issues before they become costly breakdowns. Through regular inspections and planned maintenance, we help residential, commercial, and industrial properties across Dubai maintain safe, reliable, and efficient electrical systems.
             </p>
-        </div>
-        <!-- single check area end -->
 
-        <!-- single check area -->
-        <div class="single">
-            <i class="fa-light fa-circle-check"></i>
-            <p>
-                Ensuring all lighting installations comply with Dubai safety regulations and building standards.
+            <p class="disc">
+                Electrical failures often occur due to unnoticed wear, overloaded circuits, or aging components. Our expert technicians conduct thorough system checks, testing wiring, panels, connections, and protective devices to ensure everything operates safely and efficiently. Preventive maintenance not only reduces downtime but also extends the lifespan of your electrical systems.
             </p>
-        </div>
-        <!-- single check area end -->
 
-        <!-- single check area -->
-        <div class="single">
-            <i class="fa-light fa-circle-check"></i>
-            <p>
-                Upgrading outdated or faulty lighting systems to energy-efficient, long-lasting solutions.
+            <p class="quote">
+                “Prevention is the key to electrical safety. Regular inspections protect your property, people, and equipment from unexpected failures.”
             </p>
-        </div>
-        <!-- single check area end -->
 
-        <p>Whether it’s a quick lighting repair or a complete installation, Supreme Buildings Maintenance is committed to delivering clean workmanship, timely service, and dependable results—ensuring your property stays bright, safe, and efficient.</p>
-    </div>
-</div>
+            <div class="check-area-pd">
+                <h5 class="title">The Challenge Of Project</h5>
+
+                <!-- single check area -->
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Detecting hidden electrical faults before they cause system failures or safety hazards.
+                    </p>
+                </div>
+                <!-- single check area end -->
+
+                <!-- single check area -->
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Scheduling regular inspections without disrupting daily operations or occupancy.
+                    </p>
+                </div>
+                <!-- single check area end -->
+
+                <!-- single check area -->
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Ensuring continuous compliance with Dubai electrical safety regulations and standards.
+                    </p>
+                </div>
+                <!-- single check area end -->
+
+                <p>
+                    With Supreme Buildings Maintenance’s preventive electrical solutions, you gain peace of mind knowing your electrical systems are consistently monitored, maintained, and protected—helping you avoid emergencies, reduce repair costs, and ensure long-term safety.
+                </p>
+            </div>
+        </div>
 
         </div>
     </div>

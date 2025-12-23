@@ -35,20 +35,20 @@ Route::get('/emergency_repair', function () {
     return view('services.emergency_detail');
 });
 
-Route::get('/   _electric_solution', function () {
-    return view('services.lightning_detail');
+Route::get('/preventive_solution', function () {
+    return view('services.preventive_detail');
 });
 
-Route::get('/lightning_installation', function () {
-    return view('services.lightning_detail');
+Route::get('/commercial_repair', function () {
+    return view('services.commercial_detail');
 });
 
-Route::get('/lightning_installation', function () {
-    return view('services.lightning_detail');
+Route::get('/residential_repair', function () {
+    return view('services.residential_detail');
 });
 
-Route::get('/lightning_installation', function () {
-    return view('services.lightning_detail');
+Route::get('/industrial_repair', function () {
+    return view('services.industrial_detail');
 });
 
 

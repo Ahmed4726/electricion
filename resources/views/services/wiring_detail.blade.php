@@ -31,7 +31,7 @@
                 <div class="col-lg-12">
                     <div class="project-details-area-main">
                         <div class="thumbnail">
-                            <img src="assets/images/banner/wiring.jpeg" alt="project-details">
+                            <img src="assets/images/banner/residential_electric.jpeg" alt="project-details">
                         </div>
                     </div>
                 </div>

@@ -10,10 +10,10 @@
                         <div class="wrapper">
                             <div class="slug">
                                 <a href="/">HOME /</a>
-                                <a class="active" href="/lightning_installation">Lightning Installation</a>
+                                <a class="active" href="/industrial_electrical">Industrial Electrical Solutions</a>
                             </div>
                             <div class="title">
-                                <a href="/lightning_installation">Lightning Installation</a>
+                                <a href="/industrial_electrical">Industrial Electrical Solutions</a>
                             </div>
                         </div>
                     </div>
@@ -31,62 +31,65 @@
                 <div class="col-lg-12">
                     <div class="project-details-area-main">
                         <div class="thumbnail">
-                            <img src="assets/images/banner/lightning.jpeg" alt="project-details">
+                            <img src="assets/images/banner/industrial_electric.jpeg" alt="project-details">
                         </div>
                     </div>
                 </div>
             </div>
+
          <div class="portfolio-disc-content">
-    <div class="title-area">
-        <span>Lighting Solutions</span>
-        <h4 class="title">Lighting Installation & Repair</h4>
-    </div>
+            <div class="title-area">
+                <span>Electrical Solutions</span>
+                <h4 class="title">Industrial Electrical Installation & Maintenance</h4>
+            </div>
 
-    <p class="disc">
-        At <strong>Supreme Buildings Maintenance</strong>, we provide expert lighting installation and repair services across Dubai, helping homes and businesses achieve safe, efficient, and visually appealing spaces. From modern LED installations to complete lighting upgrades, our skilled technicians deliver solutions that enhance comfort, functionality, and energy efficiency.
-    </p>
-
-    <p class="disc">
-        Dubai’s residential and commercial properties demand high-quality electrical systems that meet safety regulations and modern design standards. Our team specializes in diagnosing lighting faults, repairing damaged fixtures, and installing new lighting systems that perform reliably in all environments. Every project is handled with precision, professionalism, and attention to detail.
-    </p>
-
-    <p class="quote">
-        “Professional lighting transforms spaces by improving safety, efficiency, and ambiance. At Supreme Buildings Maintenance, we ensure every installation delivers lasting performance and exceptional results.”
-    </p>
-
-    <div class="check-area-pd">
-        <h5 class="title">The Challenge Of Project</h5>
-
-        <!-- single check area -->
-        <div class="single">
-            <i class="fa-light fa-circle-check"></i>
-            <p>
-                Managing complex electrical layouts, high ceilings, and modern lighting designs in Dubai properties.
+            <p class="disc">
+                At <strong>Supreme Buildings Maintenance</strong>, we deliver reliable industrial electrical solutions designed to support factories, warehouses, and industrial facilities across Dubai. Our services focus on heavy-duty electrical systems that ensure uninterrupted operations, maximum safety, and long-term performance in demanding environments.
             </p>
-        </div>
-        <!-- single check area end -->
 
-        <!-- single check area -->
-        <div class="single">
-            <i class="fa-light fa-circle-check"></i>
-            <p>
-                Ensuring all lighting installations comply with Dubai safety regulations and building standards.
+            <p class="disc">
+                Industrial facilities require robust electrical infrastructure capable of handling high loads and continuous usage. Our experienced electricians specialize in power distribution systems, control panels, machinery wiring, and fault diagnosis. Every project is executed in compliance with Dubai’s industrial safety regulations and operational standards.
             </p>
-        </div>
-        <!-- single check area end -->
 
-        <!-- single check area -->
-        <div class="single">
-            <i class="fa-light fa-circle-check"></i>
-            <p>
-                Upgrading outdated or faulty lighting systems to energy-efficient, long-lasting solutions.
+            <p class="quote">
+                “Strong electrical systems are the backbone of industrial operations. At Supreme Buildings Maintenance, we power productivity with safe, durable, and efficient electrical solutions.”
             </p>
-        </div>
-        <!-- single check area end -->
 
-        <p>Whether it’s a quick lighting repair or a complete installation, Supreme Buildings Maintenance is committed to delivering clean workmanship, timely service, and dependable results—ensuring your property stays bright, safe, and efficient.</p>
-    </div>
-</div>
+            <div class="check-area-pd">
+                <h5 class="title">The Challenge Of Project</h5>
+
+                <!-- single check area -->
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Managing high-voltage systems and heavy electrical loads in industrial environments.
+                    </p>
+                </div>
+                <!-- single check area end -->
+
+                <!-- single check area -->
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Ensuring minimal downtime while performing electrical repairs and system upgrades.
+                    </p>
+                </div>
+                <!-- single check area end -->
+
+                <!-- single check area -->
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Maintaining strict compliance with industrial safety standards and Dubai regulations.
+                    </p>
+                </div>
+                <!-- single check area end -->
+
+                <p>
+                    From preventive maintenance and emergency repairs to complete industrial electrical installations, Supreme Buildings Maintenance provides dependable, heavy-duty electrical care that keeps your facility operating safely and efficiently.
+                </p>
+            </div>
+        </div>
 
         </div>
     </div>

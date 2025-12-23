@@ -40,8 +40,10 @@
                         </div>
                         <div class="content">
                             <span>Get an email</span>
-                            <a href="mailto:webmaster@example.com">
-                                <h5 class="title under-line">info@drill24.com</h5>
+                            <a href="mailto:info@supremebuildingsmaintenance.com">
+                                <h5 class="title under-line">
+info@supremebuildingsmaintenance.com
+</h5>
                             </a>
                         </div>
                     </div>
@@ -101,7 +103,7 @@
                         <div class="content">
                             <span>Go for location</span>
                             <a href="https://www.google.com/maps" target="_blank">
-                                <h5 class="title">25 Hilton Street De</h5>
+                                <h5 class="title">Plot# 168, Manama, Ajman</h5>
                             </a>
                         </div>
                     </div>
