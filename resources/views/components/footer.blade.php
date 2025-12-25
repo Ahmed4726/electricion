@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="contact-info">
                                         <p>Email Us Here</p>
-                                        <a href="mailto:yourmail@example.com">info@supremebuildingsmaintenance.com</a>
+                                        <a href="mailto:info@supremebuildingsmaintenance.com">info@supremebuildingsmaintenance.com</a>
                                     </div>
                                 </div>
                                 <!-- single contact area end -->
