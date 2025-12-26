@@ -92,8 +92,8 @@
                                            Powering Dubai, Safely & Reliably.
                                         </h1>
                                         <div class="button-area">
-                                            <a href="#" class="rts-btn btn-primary">Make an Appointment</a>
-                                            <a href="#" class="rts-btn btn-secondary">Our Services</a>
+                                            <a href="/contact" class="rts-btn btn-primary">Make an Appointment</a>
+                                            <a href="/service" class="rts-btn btn-secondary">Our Services</a>
                                         </div>
                                     </div>
                                 </div>
@@ -837,8 +837,6 @@
                             </p>
                             <h2 class="title">
                                 Powering Homes &  <br> Businesses Safely in Dubai
-
-
                             </h2>
                         </div>
                         <p class="disc">
