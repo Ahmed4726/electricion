@@ -387,22 +387,7 @@
                                                 <!-- about ncheck wrapper main end -->
                                             </div>
                                         </div>
-                                        <!-- vedio area start -->
-                                        {{-- <div class="vedio-area-start">
-                                            <a href="#" class="rts-btn btn-primary">Read More <i class="fa-regular fa-arrow-right"></i></a>
-                                            <div class="vedio-icone">
-                                                <a id="play-video" class="video-play-button" href="#">
-                                                    <span></span>
-                                                    <p class="text">
-                                                        Play Vedio
-                                                    </p>
-                                                </a>
-                                                <div id="video-overlay" class="video-overlay">
-                                                    <a class="video-overlay-close">×</a>
-                                                </div>
-                                            </div>
-                                        </div> --}}
-                                        <!-- vedio area end -->
+                                  
                                     </div>
                                     <!-- single nav content end -->
                                 </div>
@@ -446,22 +431,7 @@
                                                 <!-- about ncheck wrapper main end -->
                                             </div>
                                         </div>
-                                        <!-- vedio area start -->
-                                        {{-- <div class="vedio-area-start">
-                                            <a href="#" class="rts-btn btn-primary">Read More <i class="fa-regular fa-arrow-right"></i></a>
-                                            <div class="vedio-icone">
-                                                <a id="play-video" class="video-play-button" href="#">
-                                                    <span></span>
-                                                    <p class="text">
-                                                        Play Vedio
-                                                    </p>
-                                                </a>
-                                                <div id="video-overlay" class="video-overlay">
-                                                    <a class="video-overlay-close">×</a>
-                                                </div>
-                                            </div>
-                                        </div> --}}
-                                        <!-- vedio area end -->
+                                      
                                     </div>
                                     <!-- single nav content end -->
                                 </div>
@@ -505,21 +475,7 @@
                                                 <!-- about ncheck wrapper main end -->
                                             </div>
                                         </div>
-                                        <!-- vedio area start -->
-                                        {{-- <div class="vedio-area-start">
-                                            <a href="#" class="rts-btn btn-primary">Read More <i class="fa-regular fa-arrow-right"></i></a>
-                                            <div class="vedio-icone">
-                                                <a id="play-video" class="video-play-button" href="#">
-                                                    <span></span>
-                                                    <p class="text">
-                                                        Play Vedio
-                                                    </p>
-                                                </a>
-                                                <div id="video-overlay" class="video-overlay">
-                                                    <a class="video-overlay-close">×</a>
-                                                </div>
-                                            </div>
-                                        </div> --}}
+                                        
                                         <!-- vedio area end -->
                                     </div>
                                     <!-- single nav content end -->
@@ -569,129 +525,6 @@
 
     <!-- rts team area start -->
     <div class="rts-team-area rts-section-gap bg_image">
-        {{-- <div class="container">
-            <div class="row">
-                <div class="title-area-center">
-                    <p class="pre">
-                        Quality Handyman Solution
-                    </p>
-                    <h2 class="title">
-                        Our Perfect Team
-                    </h2>
-                </div>
-            </div>
-            <div class="row mt--20 g-24">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single team area -->
-                    <div class="rts-single-team-one">
-                        <a href="team-details.html" class="thumbnail">
-                            <img src="assets/images/team/01.jpg" alt="team-details">
-                        </a>
-                        <div class="inner-content">
-                            <div class="main_con">
-                                <a href="team-details.html">
-                                    <h5 class="title">Andrew Daniel</h5>
-                                </a>
-                                <span>Clean Expert</span>
-                            </div>
-                            <div href="#" class="share-icon">
-                                <div class="share-icons-wrapper">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <i class="fa-sharp fa-regular fa-share-nodes"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single team area end -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single team area -->
-                    <div class="rts-single-team-one">
-                        <a href="team-details.html" class="thumbnail">
-                            <img src="assets/images/team/02.jpg" alt="team-details">
-                        </a>
-                        <div class="inner-content">
-                            <div class="main_con">
-                                <a href="team-details.html">
-                                    <h5 class="title">Marko Daniel</h5>
-                                </a>
-                                <span>Clean Expert</span>
-                            </div>
-
-                            <div href="#" class="share-icon">
-                                <div class="share-icons-wrapper">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <i class="fa-sharp fa-regular fa-share-nodes"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single team area end -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- single team area -->
-                    <div class="rts-single-team-one">
-                        <a href="team-details.html" class="thumbnail">
-                            <img src="assets/images/team/03.jpg" alt="team-details">
-                        </a>
-                        <div class="inner-content">
-                            <div class="main_con">
-                                <a href="team-details.html">
-                                    <h5 class="title">Andrew Daniel</h5>
-                                </a>
-                                <span>Clean Expert</span>
-                            </div>
-                            <div href="#" class="share-icon">
-                                <div class="share-icons-wrapper">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <i class="fa-sharp fa-regular fa-share-nodes"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- single team area end -->
-                </div>
-            </div>
-        </div> --}}
     </div>
     <!-- rts team area end -->
 
@@ -906,228 +739,120 @@
     <!-- rts whu choose us section area end -->
 
     <!-- rts customers feedback area start -->
-    <div class="rts-customers-feedback-technical bg_team-t bg_image rts-section-gap">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-area-center">
-                        <p class="pre">
-                            What Our Customers Feedbacks
-                        </p>
-                        <h2 class="title">
-                            What People Say About <br>
-                            <span>Our Company</span>
-                        </h2>
-                    </div>
+<div class="rts-customers-feedback-technical bg_team-t bg_image rts-section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="title-area-center">
+                    <p class="pre">
+                        Customer Feedback
+                    </p>
+                    <h2 class="title">
+                        Trusted by Clients Across <br>
+                        <span>Dubai & UAE</span>
+                    </h2>
                 </div>
             </div>
-            <div class="row mt--40">
-                <div class="col-lg-12">
-                    <div class="swiper-testimonials-wrapper-t">
-                        <!-- Swiper -->
-                        <div class="swiper  swiper-feedback-technical">
-                            <div class="swiper-wrapper">
-                                <!-- single swiper -->
-                                <div class="swiper-slide">
-                                    <div class="customers-feedback-main-t">
-                                        <p class="dsic">
-                                            “According to the council osupply chain professionals the council of logistics management logistics is the a process of planning and controlling procedures tempor netus a pharetra phasellus necolla feugiat aptent class mattis”
-                                        </p>
-                                        <div class="footer">
-                                            <div class="client-area">
-                                                <img src="assets/images/team/21.png" alt="team-area">
-                                                <div class="info">
-                                                    <a href="#">
-                                                        <h5 class="title">Mr. Oith</h5>
-                                                    </a>
-                                                    <span>Manager</span>
-                                                </div>
+        </div>
+        <div class="row mt--40">
+            <div class="col-lg-12">
+                <div class="swiper-testimonials-wrapper-t">
+                    <div class="swiper swiper-feedback-technical">
+                        <div class="swiper-wrapper">
+
+                            <!-- single swiper -->
+                            <div class="swiper-slide">
+                                <div class="customers-feedback-main-t">
+                                    <p class="dsic">
+                                        “Excellent electrical service from start to finish. The team arrived on time, diagnosed the issue quickly, and fixed everything safely. Highly recommended for anyone in Dubai.”
+                                    </p>
+                                    <div class="footer">
+                                        <div class="client-area">
+                                            <img src="assets/images/team/21.png" alt="client">
+                                            <div class="info">
+                                                <h5 class="title">Ahmed R.</h5>
+                                                <span>Homeowner, Dubai</span>
                                             </div>
-                                            <div class="logo-area">
-                                                <img src="assets/images/testimonials/08.png" alt="team">
-                                            </div>
+                                        </div>
+                                        <div class="logo-area">
+                                            <img src="assets/images/testimonials/08.png" alt="company">
                                         </div>
                                     </div>
                                 </div>
-                                <!-- single swiper -->
-                                <!-- single swiper -->
-                                <div class="swiper-slide">
-                                    <div class="customers-feedback-main-t">
-                                        <p class="dsic">
-                                            “According to the council osupply chain professionals the council of logistics management logistics is the a process of planning and controlling procedures tempor netus a pharetra phasellus necolla feugiat aptent class mattis”
-                                        </p>
-                                        <div class="footer">
-                                            <div class="client-area">
-                                                <img src="assets/images/team/21.png" alt="team-area">
-                                                <div class="info">
-                                                    <a href="#">
-                                                        <h5 class="title">John D.Smith</h5>
-                                                    </a>
-                                                    <span>Manager</span>
-                                                </div>
-                                            </div>
-                                            <div class="logo-area">
-                                                <img src="assets/images/testimonials/08.png" alt="team">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper -->
-                                <!-- single swiper -->
-                                <div class="swiper-slide">
-                                    <div class="customers-feedback-main-t">
-                                        <p class="dsic">
-                                            “According to the council osupply chain professionals the council of logistics management logistics is the a process of planning and controlling procedures tempor netus a pharetra phasellus necolla feugiat aptent class mattis”
-                                        </p>
-                                        <div class="footer">
-                                            <div class="client-area">
-                                                <img src="assets/images/team/21.png" alt="team-area">
-                                                <div class="info">
-                                                    <a href="#">
-                                                        <h5 class="title">Andrew D.</h5>
-                                                    </a>
-                                                    <span>Manager</span>
-                                                </div>
-                                            </div>
-                                            <div class="logo-area">
-                                                <img src="assets/images/testimonials/08.png" alt="team">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper -->
-                                <!-- single swiper -->
-                                <div class="swiper-slide">
-                                    <div class="customers-feedback-main-t">
-                                        <p class="dsic">
-                                            “According to the council osupply chain professionals the council of logistics management logistics is the a process of planning and controlling procedures tempor netus a pharetra phasellus necolla feugiat aptent class mattis”
-                                        </p>
-                                        <div class="footer">
-                                            <div class="client-area">
-                                                <img src="assets/images/team/21.png" alt="team-area">
-                                                <div class="info">
-                                                    <a href="#">
-                                                        <h5 class="title">Dion Smith</h5>
-                                                    </a>
-                                                    <span>Manager</span>
-                                                </div>
-                                            </div>
-                                            <div class="logo-area">
-                                                <img src="assets/images/testimonials/08.png" alt="team">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- single swiper -->
                             </div>
+
+                            <!-- single swiper -->
+                            <div class="swiper-slide">
+                                <div class="customers-feedback-main-t">
+                                    <p class="dsic">
+                                        “Professional and reliable electricians. They handled our commercial wiring project efficiently with zero delays. Great communication and quality workmanship.”
+                                    </p>
+                                    <div class="footer">
+                                        <div class="client-area">
+                                            <img src="assets/images/team/21.png" alt="client">
+                                            <div class="info">
+                                                <h5 class="title">Ali M.</h5>
+                                                <span>Operations Manager</span>
+                                            </div>
+                                        </div>
+                                        <div class="logo-area">
+                                            <img src="assets/images/testimonials/08.png" alt="company">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- single swiper -->
+                            <div class="swiper-slide">
+                                <div class="customers-feedback-main-t">
+                                    <p class="dsic">
+                                        “Quick emergency response and very skilled technicians. They restored power safely and explained everything clearly. One of the best electrical services in Dubai.”
+                                    </p>
+                                    <div class="footer">
+                                        <div class="client-area">
+                                            <img src="assets/images/team/21.png" alt="client">
+                                            <div class="info">
+                                                <h5 class="title">Khalid A.</h5>
+                                                <span>Facility Supervisor</span>
+                                            </div>
+                                        </div>
+                                        <div class="logo-area">
+                                            <img src="assets/images/testimonials/08.png" alt="company">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- single swiper -->
+                            <div class="swiper-slide">
+                                <div class="customers-feedback-main-t">
+                                    <p class="dsic">
+                                        “Outstanding preventive maintenance service. Their attention to detail helped us avoid future electrical issues. Reliable, affordable, and highly professional.”
+                                    </p>
+                                    <div class="footer">
+                                        <div class="client-area">
+                                            <img src="assets/images/team/21.png" alt="client">
+                                            <div class="info">
+                                                <h5 class="title">Daniel S.</h5>
+                                                <span>Business Owner</span>
+                                            </div>
+                                        </div>
+                                        <div class="logo-area">
+                                            <img src="assets/images/testimonials/08.png" alt="company">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
+
     <!-- rts customers feedback area end -->
 
-    <!-- blog area start -->
-    <div class="rts-about-company-wrapper rts-section-gap">
-        {{-- <div class="container">
-            <div class="row g-24">
-                <div class="col-lg-12">
-                    <div class="title-area-center">
-                        <p class="pre">
-                            Our Most Recent Blogs
-                        </p>
-                        <h2 class="title">
-                            Most Recent Latest <br>
-                            <span> Blog Insights</span>
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-24 mt--40">
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- company story start -->
-                    <div class="cpmpay-story-single-about">
-                        <a href="blog-details.html" class="thumnail">
-                            <img src="assets//images/story/01.jpg" alt="story">
-                        </a>
-                        <div class="body">
-                            <div class="header-story">
-                                <div class="single">
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    <p>March 15, 2022</p>
-                                </div>
-                                <div class="single">
-                                    <i class="fa-regular fa-tags"></i>
-                                    <p>Oil Change</p>
-                                </div>
-                            </div>
-                            <a href="blog-details.html">
-                                <h5 class="title">Praesent mus faucibus vitae tempor primis auctor</h5>
-                            </a>
-                            <a href="blog-details.html" class="rts-btn btn-primary radious-0">
-                                Read Details<i class="fa-solid fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- company story end -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- company story start -->
-                    <div class="cpmpay-story-single-about">
-                        <a href="blog-details.html" class="thumnail">
-                            <img src="assets//images/story/02.jpg" alt="story">
-                        </a>
-                        <div class="body">
-                            <div class="header-story">
-                                <div class="single">
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    <p>March 15, 2022</p>
-                                </div>
-                                <div class="single">
-                                    <i class="fa-regular fa-tags"></i>
-                                    <p>Oil Change</p>
-                                </div>
-                            </div>
-                            <a href="blog-details.html">
-                                <h5 class="title">Knowing mus faucibus vitae tempor primis Local</h5>
-                            </a>
-                            <a href="blog-details.html" class="rts-btn btn-primary radious-0">
-                                Read Details<i class="fa-solid fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- company story end -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                    <!-- company story start -->
-                    <div class="cpmpay-story-single-about">
-                        <a href="blog-details.html" class="thumnail">
-                            <img src="assets//images/story/03.jpg" alt="story">
-                        </a>
-                        <div class="body">
-                            <div class="header-story">
-                                <div class="single">
-                                    <i class="fa-solid fa-calendar-days"></i>
-                                    <p>March 15, 2022</p>
-                                </div>
-                                <div class="single">
-                                    <i class="fa-regular fa-tags"></i>
-                                    <p>Oil Change</p>
-                                </div>
-                            </div>
-                            <a href="blog-details.html">
-                                <h5 class="title">Brizy mus faucibus vitae tempor primis auctor</h5>
-                            </a>
-                            <a href="blog-details.html" class="rts-btn btn-primary radious-0">
-                                Read Details<i class="fa-solid fa-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                    <!-- company story end -->
-                </div>
-            </div>
-        </div> --}}
-    </div>
-    <!-- blog area end -->
+
      @endsection

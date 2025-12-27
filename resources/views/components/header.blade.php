@@ -73,66 +73,29 @@
                         <ul>
                             <li class="">
                                 <a class="menu-item" href="/">HOME</a>
-                                {{-- <ul class="submenu">
-                                    <div class="container flex-mega">
-                                        <li class="menu-item">
-                                            <a class="tag" href="#">Multipage</a>
-                                            <ul class="pages">
-                                                <li><a class="current" href="index.html">Electric</a></li>
-                                                <li><a href="https://themewant.com/products/html/drill/handyman/">Handyman</a></li>
-                                                <li><a href="https://themewant.com/products/html/drill/plumber/">Plumber</a></li>
-                                                <li><a href="https://themewant.com/products/html/drill/cleaning/">Cleaning</a></li>
-                                                <li><a href="https://themewant.com/products/html/drill/air-condition/">Air Condition</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a class="tag" href="#">Onepage</a>
-                                            <ul class="pages">
-                                                <li><a href="onepage.html">Electric Onepage</a></li>
-                                                <li><a href="https://themewant.com/products/html/drill/handyman/onepage.html">Handyman Onepage</a></li>
-                                                <li><a href="https://themewant.com/products/html/drill/plumber/onepage.html">Plumber Onepage</a></li>
-                                                <li><a href="https://themewant.com/products/html/drill/cleaning/onepage.html">Cleaning Onepage</a></li>
-                                                <li><a href="https://themewant.com/products/html/drill/air-condition/onepage.html">Air Condition Onepage</a></li>
-                                            </ul>
-                                        </li>
-                                    </div>
-                                </ul> --}}
+                              
                             </li>
                             <li><a class="nav-link" href="/about">ABOUT</a></li>
-                            <li class="has-dropdown">
-                                <a class="nav-link" href="#">SERVICES</a>
-                                <ul class="submenu">
-                                    <li><a href="/services">Service</a></li>
-                                    {{-- <li><a href="service-details.html">Service Details</a></li> --}}
-                                </ul>
-                            </li>
-                            {{-- <li class="has-dropdown">
-                                <a class="nav-link" href="#">BLOG</a>
-                                <ul class="submenu">
-                                    <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                </ul>
-                            </li> --}}
-                            {{-- <li class="has-dropdown">
-                                <a class="nav-link" href="#">PAGES</a>
-                                <ul class="submenu">
-                                    <li><a href="appoinment.html">Appoinment</a></li>
-                                    <li><a href="project.html">Project</a></li>
-                                    <li class="sub-dropdown">
-                                        <a href="javascript:void(0);">Project Details</a>
-                                        <ul class="submenu third-lvl base">
-                                            <li><a class="mobile-menu-link" href="project-details.html">Project Details</a></li>
-                                            <li><a class="mobile-menu-link" href="project-details-gallery.html">Details Gallery</a></li>
-                                            <li><a class="mobile-menu-link" href="project-details-vedio.html">Details Vedio</a></li>
-                                            <li><a class="mobile-menu-link" href="project-details-carousel.html">Details Carousel</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="team.html">Team</a></li>
-                                    <li><a href="team-details.html">Team Details</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                </ul>
-                            </li> --}}
+                         <li class="has-dropdown">
+                            <a class="nav-link" href="#">Services</a>
+                            <ul class="submenu">
+                                <li><a href="/services">All Electrical Services</a></li>
+
+                                <li><a href="/lightning_installation">Lighting Installation</a></li>
+                                <li><a href="/wiring">Electrical Wiring</a></li>
+                                <li><a href="/home_automate">Home Automation</a></li>
+                                <li><a href="/electric_circuit">Electric Circuit Repair</a></li>
+
+                                <li><a href="/emergency_repair">Emergency Electrical Repair</a></li>
+                                <li><a href="/preventive_solution">Preventive Maintenance</a></li>
+
+                                <li><a href="/residential_repair">Residential Electrical Services</a></li>
+                                <li><a href="/commercial_repair">Commercial Electrical Services</a></li>
+                                <li><a href="/industrial_repair">Industrial Electrical Services</a></li>
+                            </ul>
+                        </li>
+
+                          
                             <li><a class="nav-link" href="/contact">CONTACT</a></li>
                         </ul>
                     </nav>
@@ -192,22 +155,7 @@
                 <ul class="mainmenu metismenu" id="mobile-menu-active">
                     <li class="">
                         <a href="/" class="main">Home</a>
-                        {{-- <ul class="submenu mm-collapse">
-                            <a href="#" class="tag">Multipage</a>
-                            <li><a class="mobile-menu-link" href="index.html">Electric</a></li>
-                            <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/handyman/">Handyman</a></li>
-                            <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/plumber/">Plumber</a></li>
-                            <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/cleaning/"> Cleaning</a></li>
-                            <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/air-condition/">Air Condition</a></li>
-                        </ul>
-                        <ul class="submenu mm-collapse">
-                            <a href="#" class="tag">Onepage</a>
-                            <li><a class="mobile-menu-link" href="onepage.html">Electric Onepage</a></li>
-                            <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/handyman/onepage.html">Handyman Onepage</a></li>
-                            <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/plumber/onepage.html">Plumber Onepage</a></li>
-                            <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/cleaning/onepage.html"> Cleaning Onepage</a></li>
-                            <li><a class="mobile-menu-link" href="https://themewant.com/products/html/drill/air-condition/onepage.html">Air Condition Onepage</a></li>
-                        </ul> --}}
+                      
                     </li>
                     <li>
                         <a href="/about" class="main">About</a>
@@ -219,33 +167,7 @@
                             {{-- <li><a class="mobile-menu-link" href="service-details.html">Service Details</a></li> --}}
                         </ul>
                     </li>
-                    {{-- <li class="has-droupdown">
-                        <a href="#" class="main">Blog</a>
-                        <ul class="submenu mm-collapse">
-                            <li><a class="mobile-menu-link" href="blog.html">Blog</a></li>
-                            <li><a class="mobile-menu-link" href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                    </li> --}}
-                    {{-- <li class="has-droupdown">
-                        <a href="#" class="main">Pages</a>
-                        <ul class="submenu mm-collapse">
-                            <li><a class="mobile-menu-link" href="appoinment.html">Appoinment</a></li>
-                            <li><a class="mobile-menu-link" href="project.html">Project</a></li>
-                            <li class="has-droupdown third-lvl">
-                                <a class="main" href="#">Project Details</a>
-                                <ul class="submenu-third-lvl mm-collapse">
-                                    <li><a href="project-details.html"></a>Project Detaails</li>
-                                    <li><a href="project-details-gallery.html"></a>Details Gallery</li>
-                                    <li><a href="project-details-vedio.html"></a>Details Video</li>
-                                    <li><a href="project-details-carousel.html"></a>Details Carousel</li>
-                                </ul>
-                            </li>
-                            <li><a class="mobile-menu-link" href="team.html">Team</a></li>
-                            <li><a class="mobile-menu-link" href="team-details.html">Team Details</a></li>
-                            <li><a class="mobile-menu-link" href="contact.html">Contact</a></li>
-                            <li><a class="mobile-menu-link" href="faq.html">Faq</a></li>
-                        </ul>
-                    </li> --}}
+                  
                     <li>
                         <a href="/contact" class="main">Contact Us</a>
                     </li>

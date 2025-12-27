@@ -1,97 +1,88 @@
 @extends('layouts.main')
 @section('content')
- <!-- header style two -->
-    <!-- rts breadcrumb area -->
-    <div class="rts-bread-crumb-area ptb--65 bg_image bg-breadcrumb">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="con-tent-main">
-                        <div class="wrapper">
-                            <div class="slug">
-                                <a href="/">HOME /</a>
-                                <a class="active" href="/home_automation_systems">Home Automation Systems</a>
-                            </div>
-                            <div class="title">
-                                <a href="/home_automation_systems">Home Automation Systems</a>
-                            </div>
+<!-- rts breadcrumb area -->
+<div class="rts-bread-crumb-area ptb--65 bg_image bg-breadcrumb">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="con-tent-main">
+                    <div class="wrapper">
+                        <div class="slug">
+                            <a href="/">HOME /</a>
+                            <a class="active" href="/home_automation_systems">Home Automation Systems in Dubai</a>
+                        </div>
+                        <div class="title">
+                            <a href="/home_automation_systems">Smart Home Automation Systems in Dubai</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- rts breadcrumb area end -->
-    <!-- header style two End -->
+</div>
+<!-- breadcrumb end -->
 
-    <!-- rts project details area start -->
-    <div class="rts-project-details-area rts-section-gap">
-        <div class="container">
-            <div class="row mt--50">
-                <div class="col-lg-12">
-                    <div class="project-details-area-main">
-                        <div class="thumbnail">
-                            <img src="assets/images/banner/home_automate.jpeg" alt="Home Automation Systems">
-                        </div>
+<!-- project details area -->
+<div class="rts-project-details-area rts-section-gap">
+    <div class="container">
+        <div class="row mt--50">
+            <div class="col-lg-12">
+                <div class="project-details-area-main">
+                    <div class="thumbnail">
+                        <img src="assets/images/banner/home_automate.jpeg" alt="Smart home automation systems installation in Dubai">
                     </div>
                 </div>
             </div>
+        </div>
 
-            <div class="portfolio-disc-content">
-                <div class="title-area">
-                    <span>Smart Living Solutions</span>
-                    <h4 class="title">Home Automation Systems</h4>
-                </div>
+        <div class="portfolio-disc-content">
+            <div class="title-area">
+                <span>Smart Living & Automation Solutions</span>
+                <h4 class="title">Home Automation Systems in Dubai</h4>
+            </div>
 
-                <p class="disc">
-                    At <strong>Supreme Buildings Maintenance</strong>, we deliver advanced home automation systems that bring comfort, control, and efficiency to modern homes and commercial spaces across Dubai. Our smart solutions allow you to manage lighting, climate, security, and appliances effortlessly from a single interface.
-                </p>
+            <p class="disc">
+                At <strong>Supreme Buildings Maintenance</strong>, we specialize in professional home automation systems in Dubai, delivering smart solutions that enhance comfort, security, and energy efficiency. Our systems allow complete control of lighting, air conditioning, security, and appliances through a single smart interface.
+            </p>
 
-                <p class="disc">
-                    With rising energy demands and evolving lifestyles, smart automation has become essential. Our experienced technicians design and install customized automation systems that integrate seamlessly with your property, offering enhanced convenience, improved energy efficiency, and greater security—all while complying with Dubai’s technology and safety standards.
-                </p>
+            <p class="disc">
+                Modern homes and commercial spaces demand intelligent automation. Our expert technicians design and install customized smart home systems that integrate seamlessly with existing electrical and network infrastructure—providing effortless control, reduced energy consumption, and enhanced safety in full compliance with Dubai standards.
+            </p>
 
-                <p class="quote">
-                    “Smart automation transforms the way you live and work. We create intelligent environments that save energy, increase comfort, and simplify everyday life.”
-                </p>
+            <p class="quote">
+                “Smart automation redefines modern living. We create intelligent spaces that improve comfort, save energy, and simplify daily routines.”
+            </p>
 
-                <div class="check-area-pd">
-                    <h5 class="title">The Challenge Of Project</h5>
+            <div class="check-area-pd">
+                <h5 class="title">Automation Challenges We Solve</h5>
 
-                    <!-- single check area -->
-                    <div class="single">
-                        <i class="fa-light fa-circle-check"></i>
-                        <p>
-                            Integrating smart systems with existing electrical and networking infrastructure.
-                        </p>
-                    </div>
-                    <!-- single check area end -->
-
-                    <!-- single check area -->
-                    <div class="single">
-                        <i class="fa-light fa-circle-check"></i>
-                        <p>
-                            Ensuring seamless connectivity, system reliability, and user-friendly controls.
-                        </p>
-                    </div>
-                    <!-- single check area end -->
-
-                    <!-- single check area -->
-                    <div class="single">
-                        <i class="fa-light fa-circle-check"></i>
-                        <p>
-                            Optimizing automation settings to maximize energy savings and system performance.
-                        </p>
-                    </div>
-                    <!-- single check area end -->
-
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
                     <p>
-                        From smart lighting and climate control to advanced security and full home automation, Supreme Buildings Maintenance provides innovative, reliable, and future-ready solutions—turning your property into a truly intelligent space.
+                        Seamless integration of smart devices with existing electrical and networking systems.
                     </p>
                 </div>
-            </div>
 
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Ensuring reliable connectivity, intuitive controls, and long-term system stability.
+                    </p>
+                </div>
+
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Optimizing automation settings to maximize energy efficiency and user convenience.
+                    </p>
+                </div>
+
+                <p>
+                    From smart lighting and climate control to advanced security systems and full home automation, Supreme Buildings Maintenance delivers future-ready smart solutions—transforming your property into a fully connected, intelligent living space.
+                </p>
+            </div>
         </div>
     </div>
-    <!-- rts project details area end -->
+</div>
+<!-- project details area end -->
 @endsection

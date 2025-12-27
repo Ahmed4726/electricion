@@ -1,97 +1,97 @@
 @extends('layouts.main')
 @section('content')
- <!-- header style two -->
-    <!-- rts breadcrumb area -->
-    <div class="rts-bread-crumb-area ptb--65 bg_image bg-breadcrumb">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="con-tent-main">
-                        <div class="wrapper">
-                            <div class="slug">
-                                <a href="/">HOME /</a>
-                                <a class="active" href="/preventive_electrical">Preventive Electrical Solution</a>
-                            </div>
-                            <div class="title">
-                                <a href="/preventive_electrical">Preventive Electrical Solution</a>
-                            </div>
+<!-- SEO Meta Tags -->
+@section('meta')
+    <title>Preventive Electrical Inspection & Maintenance in Dubai | Supreme Buildings Maintenance</title>
+    <meta name="description" content="Professional preventive electrical inspection and maintenance services in Dubai by Supreme Buildings Maintenance. Avoid costly breakdowns with regular system checks and planned maintenance.">
+    <meta name="keywords" content="Preventive Electrical Maintenance Dubai, Electrical Inspection Dubai, Electrical Safety Check Dubai, Preventive Electrical Solutions Dubai">
+@endsection
+
+<!-- header style two -->
+<!-- rts breadcrumb area -->
+<div class="rts-bread-crumb-area ptb--65 bg_image bg-breadcrumb">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="con-tent-main">
+                    <div class="wrapper">
+                        <div class="slug">
+                            <a href="/">HOME /</a>
+                            <a class="active" href="/preventive_electrical">Preventive Electrical Solution</a>
+                        </div>
+                        <div class="title">
+                            <a href="/preventive_electrical">Preventive Electrical Inspection & Maintenance Dubai</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- rts breadcrumb area end -->
-    <!-- header style two End -->
+</div>
+<!-- rts breadcrumb area end -->
+<!-- header style two End -->
 
-    <!-- rts project details area start -->
-    <div class="rts-project-details-area rts-section-gap">
-        <div class="container">
-            <div class="row mt--50">
-                <div class="col-lg-12">
-                    <div class="project-details-area-main">
-                        <div class="thumbnail">
-                            <img src="assets/images/banner/preventive_electric.jpeg" alt="project-details">
-                        </div>
+<!-- rts project details area start -->
+<div class="rts-project-details-area rts-section-gap">
+    <div class="container">
+        <div class="row mt--50">
+            <div class="col-lg-12">
+                <div class="project-details-area-main">
+                    <div class="thumbnail">
+                        <img src="assets/images/banner/preventive_electric.jpeg" alt="Preventive Electrical Inspection & Maintenance Dubai">
                     </div>
                 </div>
             </div>
+        </div>
 
-         <div class="portfolio-disc-content">
+        <div class="portfolio-disc-content">
             <div class="title-area">
-                <span>Electrical Solutions</span>
+                <span>Preventive Electrical Solutions in Dubai</span>
                 <h4 class="title">Preventive Electrical Inspection & Maintenance</h4>
             </div>
 
             <p class="disc">
-                At <strong>Supreme Buildings Maintenance</strong>, our preventive electrical solutions are designed to identify potential issues before they become costly breakdowns. Through regular inspections and planned maintenance, we help residential, commercial, and industrial properties across Dubai maintain safe, reliable, and efficient electrical systems.
+                At <strong>Supreme Buildings Maintenance</strong>, our preventive electrical services in Dubai are designed to detect potential problems before they lead to costly failures. Through regular inspections and scheduled maintenance, we help residential, commercial, and industrial properties maintain safe, reliable, and efficient electrical systems.
             </p>
 
             <p class="disc">
-                Electrical failures often occur due to unnoticed wear, overloaded circuits, or aging components. Our expert technicians conduct thorough system checks, testing wiring, panels, connections, and protective devices to ensure everything operates safely and efficiently. Preventive maintenance not only reduces downtime but also extends the lifespan of your electrical systems.
+                Electrical issues often arise from unnoticed wear, overloaded circuits, or aging components. Our certified technicians perform thorough system checks, testing wiring, panels, connections, and protective devices to ensure optimal safety and efficiency. Preventive maintenance minimizes downtime and extends the lifespan of your electrical infrastructure.
             </p>
 
             <p class="quote">
-                “Prevention is the key to electrical safety. Regular inspections protect your property, people, and equipment from unexpected failures.”
+                “Prevention is the key to electrical safety. Regular inspections safeguard your property, equipment, and occupants from unexpected failures.”
             </p>
 
             <div class="check-area-pd">
                 <h5 class="title">The Challenge Of Project</h5>
 
-                <!-- single check area -->
                 <div class="single">
                     <i class="fa-light fa-circle-check"></i>
                     <p>
-                        Detecting hidden electrical faults before they cause system failures or safety hazards.
+                        Detecting hidden electrical faults before they result in system failures or hazards.
                     </p>
                 </div>
-                <!-- single check area end -->
 
-                <!-- single check area -->
                 <div class="single">
                     <i class="fa-light fa-circle-check"></i>
                     <p>
                         Scheduling regular inspections without disrupting daily operations or occupancy.
                     </p>
                 </div>
-                <!-- single check area end -->
 
-                <!-- single check area -->
                 <div class="single">
                     <i class="fa-light fa-circle-check"></i>
                     <p>
-                        Ensuring continuous compliance with Dubai electrical safety regulations and standards.
+                        Ensuring continuous compliance with Dubai’s electrical safety regulations and standards.
                     </p>
                 </div>
-                <!-- single check area end -->
 
                 <p>
-                    With Supreme Buildings Maintenance’s preventive electrical solutions, you gain peace of mind knowing your electrical systems are consistently monitored, maintained, and protected—helping you avoid emergencies, reduce repair costs, and ensure long-term safety.
+                    With <strong>Supreme Buildings Maintenance</strong>’s preventive electrical solutions, your systems are continuously monitored and maintained—reducing emergency repairs, cutting costs, and guaranteeing long-term electrical safety across Dubai properties.
                 </p>
             </div>
         </div>
-
-        </div>
     </div>
-    <!-- rts project details area end -->
+</div>
+<!-- rts project details area end -->
 @endsection

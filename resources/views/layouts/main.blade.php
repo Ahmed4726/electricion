@@ -23,26 +23,27 @@
     <!-- main css -->
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     <style>
-        .floating-buttons {
+   .floating-buttons {
     position: fixed;
-    bottom: 25px;
-    right: 25px;
-    z-index: 99999;
+    bottom: 30px;
+    right: 30px;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 10px;
+    z-index: 9999;
 }
 
-.floating-buttons a img {
-    width: 55px;
-    height: 55px;
-    border-radius: 50%;
-    box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
-    transition: transform 0.2s ease-in-out;
+.floating-buttons a {
+    color: #fff;
+    background-color: #25D366; /* WhatsApp green for WhatsApp, will override below for phone */
+    padding: 14px;
+    border-radius: 100%;
+    text-align: center;
+    text-decoration: none;
 }
 
-.floating-buttons a img:hover {
-    transform: scale(1.1);
+.floating-buttons a.float-call {
+    background-color: #007bff; /* Blue color for phone */
 }
 
     </style>
@@ -53,11 +54,11 @@
 @yield('content')
 <div class="floating-buttons">
     <a href="https://wa.me/+971561716795" target="_blank" class="float-whatsapp">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
+        <i class="fab fa-whatsapp fa-2x"></i>
     </a>
 
     <a href="tel:+971561716795" class="float-call">
-        <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Call">
+        <i class="fas fa-phone fa-2x"></i>
     </a>
 </div>
 <x-footer />

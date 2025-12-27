@@ -1,97 +1,88 @@
 @extends('layouts.main')
 @section('content')
- <!-- header style two -->
-    <!-- rts breadcrumb area -->
-    <div class="rts-bread-crumb-area ptb--65 bg_image bg-breadcrumb">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="con-tent-main">
-                        <div class="wrapper">
-                            <div class="slug">
-                                <a href="/">HOME /</a>
-                                <a class="active" href="/commercial_electrical_solution">Commercial Electrical Solution</a>
-                            </div>
-                            <div class="title">
-                                <a href="/commercial_electrical_solution">Commercial Electrical Solution</a>
-                            </div>
+<!-- rts breadcrumb area -->
+<div class="rts-bread-crumb-area ptb--65 bg_image bg-breadcrumb">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="con-tent-main">
+                    <div class="wrapper">
+                        <div class="slug">
+                            <a href="/">HOME /</a>
+                            <a class="active" href="/commercial_electrical_solution">Commercial Electrical Solutions in Dubai</a>
+                        </div>
+                        <div class="title">
+                            <a href="/commercial_electrical_solution">Commercial Electrical Solutions in Dubai</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- rts breadcrumb area end -->
-    <!-- header style two End -->
+</div>
+<!-- breadcrumb end -->
 
-    <!-- rts project details area start -->
-    <div class="rts-project-details-area rts-section-gap">
-        <div class="container">
-            <div class="row mt--50">
-                <div class="col-lg-12">
-                    <div class="project-details-area-main">
-                        <div class="thumbnail">
-                            <img src="assets/images/banner/commercial_electric.jpeg" alt="Commercial Electrical Solution">
-                        </div>
+<!-- project details area -->
+<div class="rts-project-details-area rts-section-gap">
+    <div class="container">
+        <div class="row mt--50">
+            <div class="col-lg-12">
+                <div class="project-details-area-main">
+                    <div class="thumbnail">
+                        <img src="assets/images/banner/commercial_electric.jpeg" alt="Commercial electrical services for businesses in Dubai">
                     </div>
                 </div>
             </div>
+        </div>
 
-            <div class="portfolio-disc-content">
-                <div class="title-area">
-                    <span>Commercial Electrical Services</span>
-                    <h4 class="title">Commercial Electrical Solution</h4>
-                </div>
+        <div class="portfolio-disc-content">
+            <div class="title-area">
+                <span>Commercial Electrical Services in Dubai</span>
+                <h4 class="title">Professional Commercial Electrical Solutions</h4>
+            </div>
 
-                <p class="disc">
-                    At <strong>Supreme Buildings Maintenance</strong>, we provide safe, reliable, and efficient commercial electrical solutions tailored to offices, retail spaces, warehouses, and industrial facilities across Dubai. Our services are designed to support uninterrupted operations while maintaining the highest safety standards.
-                </p>
+            <p class="disc">
+                At <strong>Supreme Buildings Maintenance</strong>, we deliver professional commercial electrical solutions in Dubai for offices, retail outlets, warehouses, and industrial facilities. Our services are designed to ensure uninterrupted operations, enhanced safety, and long-term electrical reliability.
+            </p>
 
-                <p class="disc">
-                    Commercial properties require robust electrical systems capable of handling heavy loads and continuous usage. Our experienced electricians deliver professional installation, maintenance, and repair services that comply with Dubai regulations, ensuring long-term reliability, energy efficiency, and workplace safety.
-                </p>
+            <p class="disc">
+                Commercial environments demand high-performance electrical systems capable of handling continuous loads and complex operations. Our licensed electricians provide expert installation, upgrades, and maintenance services—fully compliant with Dubai’s electrical codes and commercial safety standards.
+            </p>
 
-                <p class="quote">
-                    “A dependable electrical system is the backbone of every successful business. We deliver commercial electrical solutions that power productivity, safety, and growth.”
-                </p>
+            <p class="quote">
+                “Reliable electrical systems are critical to business success. We power commercial spaces with safe, efficient, and future-ready electrical solutions.”
+            </p>
 
-                <div class="check-area-pd">
-                    <h5 class="title">The Challenge Of Project</h5>
+            <div class="check-area-pd">
+                <h5 class="title">Challenges We Handle</h5>
 
-                    <!-- single check area -->
-                    <div class="single">
-                        <i class="fa-light fa-circle-check"></i>
-                        <p>
-                            Managing complex electrical demands in high-traffic commercial environments.
-                        </p>
-                    </div>
-                    <!-- single check area end -->
-
-                    <!-- single check area -->
-                    <div class="single">
-                        <i class="fa-light fa-circle-check"></i>
-                        <p>
-                            Ensuring minimal disruption to business operations during electrical work.
-                        </p>
-                    </div>
-                    <!-- single check area end -->
-
-                    <!-- single check area -->
-                    <div class="single">
-                        <i class="fa-light fa-circle-check"></i>
-                        <p>
-                            Meeting strict commercial safety regulations and energy efficiency requirements.
-                        </p>
-                    </div>
-                    <!-- single check area end -->
-
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
                     <p>
-                        From new electrical installations to system upgrades and routine maintenance, Supreme Buildings Maintenance delivers dependable commercial electrical services—keeping your business powered, protected, and running efficiently.
+                        Managing high electrical loads and complex systems in commercial and industrial facilities.
                     </p>
                 </div>
-            </div>
 
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Completing electrical work with minimal downtime to keep businesses running smoothly.
+                    </p>
+                </div>
+
+                <div class="single">
+                    <i class="fa-light fa-circle-check"></i>
+                    <p>
+                        Meeting strict Dubai commercial electrical regulations, safety requirements, and energy efficiency standards.
+                    </p>
+                </div>
+
+                <p>
+                    From complete electrical installations and system upgrades to preventive maintenance and emergency repairs, Supreme Buildings Maintenance provides dependable commercial electrical services in Dubai—helping your business stay powered, compliant, and productive.
+                </p>
+            </div>
         </div>
     </div>
-    <!-- rts project details area end -->
+</div>
+<!-- project details area end -->
 @endsection
